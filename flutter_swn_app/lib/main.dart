@@ -1,1 +1,0 @@
-// main.dart placeholder – paste your Flutter app logic here.
