@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2025-06-15",
+    "hour": "07:00",
+    "location": "Sylvania Waters",
+    "temp": 12.3,
+    "rain": 1.2,
+    "wind": 5.4,
+    "cloud": 82,
+    "description": "showers"
+  }
+]
