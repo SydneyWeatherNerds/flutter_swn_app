@@ -1,0 +1,32 @@
+{
+  "Cronulla": {
+    "temp": 10.0,
+    "wind": 10,
+    "rain": 0.0
+  },
+  "Parramatta": {
+    "temp": 11.7,
+    "wind": 12,
+    "rain": 0.3
+  },
+  "Penrith": {
+    "temp": 13.3,
+    "wind": 14,
+    "rain": 0.6
+  },
+  "Bankstown": {
+    "temp": 15.0,
+    "wind": 16,
+    "rain": 0.9
+  },
+  "Bondi": {
+    "temp": 16.7,
+    "wind": 18,
+    "rain": 1.2
+  },
+  "Liverpool": {
+    "temp": 18.3,
+    "wind": 20,
+    "rain": 1.5
+  }
+}
