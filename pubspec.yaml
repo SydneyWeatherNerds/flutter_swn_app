@@ -1,13 +1,18 @@
 name: swn_forecast_app
 version: 1.0.0
+
 environment:
   sdk: ">=2.17.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
   http: ^0.14.0
   intl: ^0.18.0
+  flutter_svg: ^2.0.7 # REQUIRED for loading SVG icons from GitHub or assets
+
 flutter:
+  uses-material-design: true
   assets:
     - assets/icons/
     - assets/fonts/
