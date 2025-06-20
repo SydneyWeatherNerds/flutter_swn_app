@@ -607,8 +607,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 14.77,
-        "feelsLike": 12.46,
+        "temp": 14.86,
+        "feelsLike": 12.6,
         "rain": 0,
         "wind": 6.3,
         "windDir": "SE",
@@ -616,8 +616,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.89,
-        "feelsLike": 11.42,
+        "temp": 14.17,
+        "feelsLike": 11.84,
         "rain": 0,
         "wind": 6.27,
         "windDir": "SE",
@@ -625,8 +625,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 13.48,
-        "feelsLike": 11.03,
+        "temp": 13.33,
+        "feelsLike": 10.93,
         "rain": 0,
         "wind": 6.17,
         "windDir": "SE",
@@ -634,8 +634,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 13.08,
-        "feelsLike": 10.65,
+        "temp": 12.5,
+        "feelsLike": 10.03,
         "rain": 0,
         "wind": 6.07,
         "windDir": "SE",
@@ -643,8 +643,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 12.67,
-        "feelsLike": 10.26,
+        "temp": 11.76,
+        "feelsLike": 9.23,
         "rain": 0,
         "wind": 5.97,
         "windDir": "SE",
@@ -652,44 +652,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 12.26,
-        "feelsLike": 9.87,
+        "temp": 11.11,
+        "feelsLike": 8.52,
         "rain": 0,
         "wind": 5.87,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 11.98,
-        "feelsLike": 9.62,
+        "temp": 10.85,
+        "feelsLike": 8.29,
         "rain": 0,
         "wind": 5.77,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 11.7,
-        "feelsLike": 9.37,
+        "temp": 10.6,
+        "feelsLike": 8.07,
         "rain": 0,
         "wind": 5.68,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 11.42,
-        "feelsLike": 9.12,
+        "temp": 10.34,
+        "feelsLike": 7.84,
         "rain": 0,
         "wind": 5.58,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 11.14,
-        "feelsLike": 8.87,
+        "temp": 10.08,
+        "feelsLike": 7.62,
         "rain": 0,
         "wind": 5.48,
         "windDir": "S",
@@ -697,8 +697,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 10.93,
-        "feelsLike": 8.64,
+        "temp": 9.89,
+        "feelsLike": 7.42,
         "rain": 0,
         "wind": 5.45,
         "windDir": "S",
@@ -706,8 +706,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 10.71,
-        "feelsLike": 8.41,
+        "temp": 9.69,
+        "feelsLike": 7.21,
         "rain": 0,
         "wind": 5.43,
         "windDir": "SW",
@@ -715,8 +715,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 10.49,
-        "feelsLike": 8.18,
+        "temp": 9.49,
+        "feelsLike": 7.01,
         "rain": 0,
         "wind": 5.4,
         "windDir": "SW",
@@ -724,8 +724,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 7.95,
+        "temp": 9.3,
+        "feelsLike": 6.81,
         "rain": 0,
         "wind": 5.37,
         "windDir": "SW",
@@ -733,8 +733,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 10.06,
-        "feelsLike": 7.71,
+        "temp": 9.11,
+        "feelsLike": 6.6,
         "rain": 0,
         "wind": 5.38,
         "windDir": "SW",
@@ -742,8 +742,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 9.85,
-        "feelsLike": 7.47,
+        "temp": 8.92,
+        "feelsLike": 6.39,
         "rain": 0,
         "wind": 5.38,
         "windDir": "SW",
@@ -751,8 +751,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 9.64,
-        "feelsLike": 7.24,
+        "temp": 8.73,
+        "feelsLike": 6.17,
         "rain": 0,
         "wind": 5.39,
         "windDir": "SW",
@@ -760,8 +760,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 9.43,
-        "feelsLike": 7,
+        "temp": 8.55,
+        "feelsLike": 5.96,
         "rain": 0,
         "wind": 5.39,
         "windDir": "SW",
@@ -769,8 +769,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 9.23,
-        "feelsLike": 6.75,
+        "temp": 8.37,
+        "feelsLike": 5.74,
         "rain": 0,
         "wind": 5.43,
         "windDir": "W",
@@ -778,8 +778,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 9.03,
-        "feelsLike": 6.49,
+        "temp": 8.19,
+        "feelsLike": 5.51,
         "rain": 0,
         "wind": 5.46,
         "windDir": "W",
@@ -787,8 +787,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 8.83,
-        "feelsLike": 6.24,
+        "temp": 8.01,
+        "feelsLike": 5.29,
         "rain": 0,
         "wind": 5.5,
         "windDir": "W",
@@ -796,8 +796,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 8.63,
-        "feelsLike": 5.99,
+        "temp": 7.83,
+        "feelsLike": 5.07,
         "rain": 0,
         "wind": 5.54,
         "windDir": "W",
@@ -805,8 +805,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 8.47,
-        "feelsLike": 5.76,
+        "temp": 7.7,
+        "feelsLike": 4.86,
         "rain": 0,
         "wind": 5.66,
         "windDir": "W",
@@ -814,8 +814,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 8.31,
-        "feelsLike": 5.53,
+        "temp": 7.56,
+        "feelsLike": 4.66,
         "rain": 0,
         "wind": 5.78,
         "windDir": "W",
@@ -823,8 +823,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 8.16,
-        "feelsLike": 5.3,
+        "temp": 7.43,
+        "feelsLike": 4.45,
         "rain": 0,
         "wind": 5.9,
         "windDir": "W",
@@ -832,8 +832,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 8,
-        "feelsLike": 5.07,
+        "temp": 7.29,
+        "feelsLike": 4.25,
         "rain": 0,
         "wind": 6.01,
         "windDir": "W",
@@ -841,8 +841,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 7.87,
-        "feelsLike": 4.88,
+        "temp": 7.19,
+        "feelsLike": 4.09,
         "rain": 0,
         "wind": 6.13,
         "windDir": "W",
@@ -850,8 +850,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 7.74,
-        "feelsLike": 4.69,
+        "temp": 7.08,
+        "feelsLike": 3.92,
         "rain": 0,
         "wind": 6.24,
         "windDir": "W",
@@ -859,8 +859,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 7.61,
-        "feelsLike": 4.5,
+        "temp": 6.97,
+        "feelsLike": 3.75,
         "rain": 0,
         "wind": 6.35,
         "windDir": "W",
@@ -868,8 +868,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 7.48,
-        "feelsLike": 4.3,
+        "temp": 6.86,
+        "feelsLike": 3.59,
         "rain": 0,
         "wind": 6.46,
         "windDir": "W",
@@ -877,8 +877,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 7.35,
-        "feelsLike": 4.12,
+        "temp": 6.75,
+        "feelsLike": 3.43,
         "rain": 0,
         "wind": 6.55,
         "windDir": "W",
@@ -886,8 +886,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 7.21,
-        "feelsLike": 3.93,
+        "temp": 6.64,
+        "feelsLike": 3.27,
         "rain": 0,
         "wind": 6.63,
         "windDir": "W",
@@ -895,8 +895,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 7.08,
-        "feelsLike": 3.75,
+        "temp": 6.53,
+        "feelsLike": 3.11,
         "rain": 0,
         "wind": 6.72,
         "windDir": "W",
@@ -904,8 +904,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 6.94,
-        "feelsLike": 3.57,
+        "temp": 6.42,
+        "feelsLike": 2.95,
         "rain": 0,
         "wind": 6.8,
         "windDir": "W",
@@ -913,8 +913,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 6.8,
-        "feelsLike": 3.38,
+        "temp": 6.3,
+        "feelsLike": 2.79,
         "rain": 0,
         "wind": 6.84,
         "windDir": "W",
@@ -922,8 +922,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 6.66,
-        "feelsLike": 3.19,
+        "temp": 6.18,
+        "feelsLike": 2.63,
         "rain": 0,
         "wind": 6.87,
         "windDir": "W",
@@ -931,8 +931,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 6.51,
-        "feelsLike": 3,
+        "temp": 6.05,
+        "feelsLike": 2.47,
         "rain": 0,
         "wind": 6.91,
         "windDir": "W",
@@ -940,8 +940,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 6.37,
-        "feelsLike": 2.82,
+        "temp": 5.93,
+        "feelsLike": 2.31,
         "rain": 0,
         "wind": 6.94,
         "windDir": "W",
@@ -949,8 +949,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 6.25,
-        "feelsLike": 2.67,
+        "temp": 5.84,
+        "feelsLike": 2.19,
         "rain": 0,
         "wind": 6.97,
         "windDir": "W",
@@ -958,8 +958,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 6.14,
-        "feelsLike": 2.53,
+        "temp": 5.75,
+        "feelsLike": 2.07,
         "rain": 0,
         "wind": 7,
         "windDir": "W",
@@ -967,8 +967,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 6.02,
-        "feelsLike": 2.38,
+        "temp": 5.65,
+        "feelsLike": 1.95,
         "rain": 0,
         "wind": 7.03,
         "windDir": "W",
@@ -976,8 +976,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 5.91,
-        "feelsLike": 2.24,
+        "temp": 5.56,
+        "feelsLike": 1.84,
         "rain": 0,
         "wind": 7.06,
         "windDir": "W",
@@ -985,8 +985,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 5.8,
-        "feelsLike": 2.13,
+        "temp": 5.48,
+        "feelsLike": 1.75,
         "rain": 0,
         "wind": 7.07,
         "windDir": "W",
@@ -994,8 +994,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 5.7,
-        "feelsLike": 2.01,
+        "temp": 5.4,
+        "feelsLike": 1.66,
         "rain": 0,
         "wind": 7.08,
         "windDir": "W",
@@ -1003,8 +1003,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 5.6,
-        "feelsLike": 1.9,
+        "temp": 5.32,
+        "feelsLike": 1.58,
         "rain": 0,
         "wind": 7.09,
         "windDir": "W",
@@ -1012,8 +1012,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 5.49,
-        "feelsLike": 1.79,
+        "temp": 5.24,
+        "feelsLike": 1.49,
         "rain": 0,
         "wind": 7.1,
         "windDir": "W",
@@ -1021,8 +1021,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 5.4,
-        "feelsLike": 1.64,
+        "temp": 5.16,
+        "feelsLike": 1.37,
         "rain": 0,
         "wind": 7.14,
         "windDir": "W",
@@ -1030,8 +1030,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 5.3,
-        "feelsLike": 1.49,
+        "temp": 5.09,
+        "feelsLike": 1.24,
         "rain": 0,
         "wind": 7.18,
         "windDir": "W",
@@ -1039,8 +1039,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 5.21,
-        "feelsLike": 1.35,
+        "temp": 5.02,
+        "feelsLike": 1.12,
         "rain": 0,
         "wind": 7.22,
         "windDir": "W",
@@ -1048,8 +1048,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 5.12,
-        "feelsLike": 1.2,
+        "temp": 4.95,
+        "feelsLike": 1,
         "rain": 0,
         "wind": 7.26,
         "windDir": "W",
@@ -1057,8 +1057,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 5.11,
-        "feelsLike": 1.17,
+        "temp": 4.96,
+        "feelsLike": 1,
         "rain": 0,
         "wind": 7.27,
         "windDir": "W",
@@ -1066,8 +1066,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 5.1,
-        "feelsLike": 1.15,
+        "temp": 4.98,
+        "feelsLike": 1,
         "rain": 0,
         "wind": 7.28,
         "windDir": "W",
@@ -1075,21 +1075,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 5.1,
-        "feelsLike": 1.13,
+        "temp": 5,
+        "feelsLike": 1,
         "rain": 0,
         "wind": 7.3,
         "windDir": "W",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 5.56,
-        "feelsLike": 1.64,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 5.01,
+        "feelsLike": 1.01,
         "rain": 0,
-        "wind": 7.13,
+        "wind": 7.31,
         "windDir": "W",
-        "icon": "4_day"
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 5.25,
+        "feelsLike": 1.29,
+        "rain": 0,
+        "wind": 7.32,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 5.5,
+        "feelsLike": 1.58,
+        "rain": 0,
+        "wind": 7.32,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 5.74,
+        "feelsLike": 1.86,
+        "rain": 0,
+        "wind": 7.33,
+        "windDir": "W",
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -1165,8 +1192,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.89,
-        "feelsLike": 11.42,
+        "temp": 14.17,
+        "feelsLike": 11.84,
         "rain": 0,
         "wind": 6.27,
         "windDir": "SE",
@@ -1174,17 +1201,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 12.26,
-        "feelsLike": 9.87,
+        "temp": 11.11,
+        "feelsLike": 8.52,
         "rain": 0,
         "wind": 5.87,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 11.14,
-        "feelsLike": 8.87,
+        "temp": 10.08,
+        "feelsLike": 7.62,
         "rain": 0,
         "wind": 5.48,
         "windDir": "S",
@@ -1192,8 +1219,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 7.95,
+        "temp": 9.3,
+        "feelsLike": 6.81,
         "rain": 0,
         "wind": 5.37,
         "windDir": "SW",
@@ -1201,8 +1228,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 9.43,
-        "feelsLike": 7,
+        "temp": 8.55,
+        "feelsLike": 5.96,
         "rain": 0,
         "wind": 5.39,
         "windDir": "SW",
@@ -1210,8 +1237,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 8.63,
-        "feelsLike": 5.99,
+        "temp": 7.83,
+        "feelsLike": 5.07,
         "rain": 0,
         "wind": 5.54,
         "windDir": "W",
@@ -1219,8 +1246,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 8,
-        "feelsLike": 5.07,
+        "temp": 7.29,
+        "feelsLike": 4.25,
         "rain": 0,
         "wind": 6.01,
         "windDir": "W",
@@ -1228,8 +1255,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 7.48,
-        "feelsLike": 4.3,
+        "temp": 6.86,
+        "feelsLike": 3.59,
         "rain": 0,
         "wind": 6.46,
         "windDir": "W",
@@ -1237,8 +1264,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 6.94,
-        "feelsLike": 3.57,
+        "temp": 6.42,
+        "feelsLike": 2.95,
         "rain": 0,
         "wind": 6.8,
         "windDir": "W",
@@ -1246,8 +1273,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 6.37,
-        "feelsLike": 2.82,
+        "temp": 5.93,
+        "feelsLike": 2.31,
         "rain": 0,
         "wind": 6.94,
         "windDir": "W",
@@ -1255,8 +1282,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 5.91,
-        "feelsLike": 2.24,
+        "temp": 5.56,
+        "feelsLike": 1.84,
         "rain": 0,
         "wind": 7.06,
         "windDir": "W",
@@ -1264,8 +1291,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 5.49,
-        "feelsLike": 1.79,
+        "temp": 5.24,
+        "feelsLike": 1.49,
         "rain": 0,
         "wind": 7.1,
         "windDir": "W",
@@ -1273,8 +1300,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 5.12,
-        "feelsLike": 1.2,
+        "temp": 4.95,
+        "feelsLike": 1,
         "rain": 0,
         "wind": 7.26,
         "windDir": "W",
@@ -1282,8 +1309,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 5.09,
-        "feelsLike": 1.1,
+        "temp": 5.01,
+        "feelsLike": 1.01,
         "rain": 0,
         "wind": 7.31,
         "windDir": "W",
@@ -1291,8 +1318,8 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 5.97,
-        "feelsLike": 2.14,
+        "temp": 5.98,
+        "feelsLike": 2.15,
         "rain": 0,
         "wind": 7.34,
         "windDir": "W",
@@ -1300,7 +1327,7 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 7.93,
+        "temp": 7.94,
         "feelsLike": 4.38,
         "rain": 0,
         "wind": 7.26,
@@ -1781,7 +1808,7 @@
         "feelsLike": 17.07,
         "rain": 0,
         "wind": 8.01,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_day"
       },
       {
@@ -1799,7 +1826,7 @@
         "feelsLike": 17.41,
         "rain": 0,
         "wind": 8.62,
-        "windDir": "N",
+        "windDir": "NE",
         "icon": "1_day"
       },
       {
@@ -1817,7 +1844,7 @@
         "feelsLike": 13.85,
         "rain": 0,
         "wind": 9.39,
-        "windDir": "N",
+        "windDir": "NE",
         "icon": "1_day"
       },
       {
@@ -1988,7 +2015,7 @@
         "feelsLike": 15.04,
         "rain": 0,
         "wind": 19.65,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "4_day"
       },
       {
@@ -1997,7 +2024,7 @@
         "feelsLike": 15.03,
         "rain": 0,
         "wind": 19.63,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "4_day"
       },
       {
@@ -2547,7 +2574,7 @@
       {
         "date": "2025-06-20T14:00:00.000Z",
         "dayLabel": "Sat",
-        "tempMin": 5.09,
+        "tempMin": 4.95,
         "tempMax": 13.57,
         "rain": 0,
         "convRain": 0,
@@ -3230,8 +3257,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 14.5,
-        "feelsLike": 12.72,
+        "temp": 14.36,
+        "feelsLike": 12.59,
         "rain": 0,
         "wind": 2.46,
         "windDir": "NE",
@@ -3239,8 +3266,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.85,
-        "feelsLike": 12.12,
+        "temp": 13.39,
+        "feelsLike": 11.62,
         "rain": 0,
         "wind": 2.42,
         "windDir": "NE",
@@ -3248,8 +3275,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 13.28,
-        "feelsLike": 11.55,
+        "temp": 12.28,
+        "feelsLike": 10.5,
         "rain": 0,
         "wind": 2.39,
         "windDir": "NE",
@@ -3257,8 +3284,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 12.72,
-        "feelsLike": 10.99,
+        "temp": 11.13,
+        "feelsLike": 9.33,
         "rain": 0,
         "wind": 2.36,
         "windDir": "E",
@@ -3266,8 +3293,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 12.15,
-        "feelsLike": 10.43,
+        "temp": 10.16,
+        "feelsLike": 8.37,
         "rain": 0,
         "wind": 2.33,
         "windDir": "E",
@@ -3275,44 +3302,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 11.58,
-        "feelsLike": 9.86,
+        "temp": 9.35,
+        "feelsLike": 7.63,
         "rain": 0,
         "wind": 2.3,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 11.14,
-        "feelsLike": 9.42,
+        "temp": 8.96,
+        "feelsLike": 7.22,
         "rain": 0,
         "wind": 2.27,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 10.7,
-        "feelsLike": 8.97,
+        "temp": 8.56,
+        "feelsLike": 6.82,
         "rain": 0,
         "wind": 2.23,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 8.53,
+        "temp": 8.17,
+        "feelsLike": 6.42,
         "rain": 0,
         "wind": 2.2,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 9.83,
-        "feelsLike": 8.08,
+        "temp": 7.77,
+        "feelsLike": 6.02,
         "rain": 0,
         "wind": 2.17,
         "windDir": "SE",
@@ -3320,8 +3347,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 9.48,
-        "feelsLike": 7.7,
+        "temp": 7.47,
+        "feelsLike": 5.68,
         "rain": 0,
         "wind": 2.19,
         "windDir": "SE",
@@ -3329,8 +3356,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 9.13,
-        "feelsLike": 7.32,
+        "temp": 7.16,
+        "feelsLike": 5.35,
         "rain": 0,
         "wind": 2.2,
         "windDir": "S",
@@ -3338,8 +3365,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 8.78,
-        "feelsLike": 6.94,
+        "temp": 6.85,
+        "feelsLike": 5.01,
         "rain": 0,
         "wind": 2.21,
         "windDir": "S",
@@ -3347,8 +3374,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 8.43,
-        "feelsLike": 6.56,
+        "temp": 6.55,
+        "feelsLike": 4.68,
         "rain": 0,
         "wind": 2.23,
         "windDir": "S",
@@ -3356,8 +3383,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 8.17,
-        "feelsLike": 6.27,
+        "temp": 6.34,
+        "feelsLike": 4.43,
         "rain": 0,
         "wind": 2.24,
         "windDir": "SW",
@@ -3365,8 +3392,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 7.92,
-        "feelsLike": 5.99,
+        "temp": 6.13,
+        "feelsLike": 4.19,
         "rain": 0,
         "wind": 2.26,
         "windDir": "SW",
@@ -3374,8 +3401,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 7.66,
-        "feelsLike": 5.7,
+        "temp": 5.91,
+        "feelsLike": 3.95,
         "rain": 0,
         "wind": 2.28,
         "windDir": "SW",
@@ -3383,8 +3410,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 7.4,
-        "feelsLike": 5.42,
+        "temp": 5.7,
+        "feelsLike": 3.71,
         "rain": 0,
         "wind": 2.3,
         "windDir": "SW",
@@ -3392,8 +3419,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 7.17,
-        "feelsLike": 5.11,
+        "temp": 5.51,
+        "feelsLike": 3.45,
         "rain": 0,
         "wind": 2.34,
         "windDir": "SW",
@@ -3401,8 +3428,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 6.93,
-        "feelsLike": 4.81,
+        "temp": 5.31,
+        "feelsLike": 3.19,
         "rain": 0,
         "wind": 2.38,
         "windDir": "SW",
@@ -3410,8 +3437,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 6.69,
-        "feelsLike": 4.51,
+        "temp": 5.12,
+        "feelsLike": 2.93,
         "rain": 0,
         "wind": 2.42,
         "windDir": "SW",
@@ -3419,8 +3446,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 6.45,
-        "feelsLike": 4.21,
+        "temp": 4.93,
+        "feelsLike": 2.68,
         "rain": 0,
         "wind": 2.47,
         "windDir": "SW",
@@ -3428,8 +3455,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 6.2,
-        "feelsLike": 3.9,
+        "temp": 4.72,
+        "feelsLike": 2.41,
         "rain": 0,
         "wind": 2.54,
         "windDir": "SW",
@@ -3437,8 +3464,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 5.95,
-        "feelsLike": 3.58,
+        "temp": 4.52,
+        "feelsLike": 2.14,
         "rain": 0,
         "wind": 2.61,
         "windDir": "SW",
@@ -3446,8 +3473,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 5.71,
-        "feelsLike": 3.27,
+        "temp": 4.31,
+        "feelsLike": 1.88,
         "rain": 0,
         "wind": 2.69,
         "windDir": "SW",
@@ -3455,8 +3482,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.46,
-        "feelsLike": 2.96,
+        "temp": 4.11,
+        "feelsLike": 1.61,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -3464,8 +3491,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 5.19,
-        "feelsLike": 2.65,
+        "temp": 3.88,
+        "feelsLike": 1.34,
         "rain": 0,
         "wind": 2.79,
         "windDir": "SW",
@@ -3473,8 +3500,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 4.91,
-        "feelsLike": 2.33,
+        "temp": 3.66,
+        "feelsLike": 1.07,
         "rain": 0,
         "wind": 2.83,
         "windDir": "SW",
@@ -3482,8 +3509,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 4.64,
-        "feelsLike": 2.01,
+        "temp": 3.43,
+        "feelsLike": 0.79,
         "rain": 0,
         "wind": 2.86,
         "windDir": "SW",
@@ -3491,8 +3518,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.37,
-        "feelsLike": 1.7,
+        "temp": 3.2,
+        "feelsLike": 0.52,
         "rain": 0,
         "wind": 2.9,
         "windDir": "SW",
@@ -3500,8 +3527,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 4.13,
-        "feelsLike": 1.43,
+        "temp": 3.01,
+        "feelsLike": 0.3,
         "rain": 0,
         "wind": 2.92,
         "windDir": "SW",
@@ -3509,8 +3536,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 3.89,
-        "feelsLike": 1.17,
+        "temp": 2.81,
+        "feelsLike": 0.08,
         "rain": 0,
         "wind": 2.94,
         "windDir": "SW",
@@ -3518,8 +3545,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 3.65,
-        "feelsLike": 0.9,
+        "temp": 2.61,
+        "feelsLike": -0.14,
         "rain": 0,
         "wind": 2.96,
         "windDir": "SW",
@@ -3527,8 +3554,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.4,
-        "feelsLike": 0.64,
+        "temp": 2.41,
+        "feelsLike": -0.39,
         "rain": 0,
         "wind": 2.98,
         "windDir": "SW",
@@ -3536,8 +3563,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 3.25,
-        "feelsLike": 0.46,
+        "temp": 2.3,
+        "feelsLike": -0.52,
         "rain": 0,
         "wind": 3,
         "windDir": "SW",
@@ -3545,8 +3572,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 3.1,
-        "feelsLike": 0.29,
+        "temp": 2.2,
+        "feelsLike": -0.65,
         "rain": 0,
         "wind": 3.03,
         "windDir": "SW",
@@ -3554,8 +3581,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 2.95,
-        "feelsLike": 0.11,
+        "temp": 2.09,
+        "feelsLike": -0.79,
         "rain": 0,
         "wind": 3.05,
         "windDir": "SW",
@@ -3563,8 +3590,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 2.8,
-        "feelsLike": -0.06,
+        "temp": 1.98,
+        "feelsLike": -0.92,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3572,8 +3599,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 2.67,
-        "feelsLike": -0.2,
+        "temp": 1.9,
+        "feelsLike": -1.03,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3581,8 +3608,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 2.53,
-        "feelsLike": -0.35,
+        "temp": 1.81,
+        "feelsLike": -1.13,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3590,8 +3617,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 2.4,
-        "feelsLike": -0.49,
+        "temp": 1.72,
+        "feelsLike": -1.23,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3599,8 +3626,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 2.27,
-        "feelsLike": -0.63,
+        "temp": 1.63,
+        "feelsLike": -1.34,
         "rain": 0,
         "wind": 3.06,
         "windDir": "SW",
@@ -3608,8 +3635,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 2.14,
-        "feelsLike": -0.77,
+        "temp": 1.55,
+        "feelsLike": -1.43,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3617,8 +3644,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 2.02,
-        "feelsLike": -0.92,
+        "temp": 1.47,
+        "feelsLike": -1.52,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3626,8 +3653,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 1.9,
-        "feelsLike": -1.06,
+        "temp": 1.4,
+        "feelsLike": -1.61,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3635,8 +3662,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 1.78,
-        "feelsLike": -1.2,
+        "temp": 1.32,
+        "feelsLike": -1.7,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3644,8 +3671,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 1.61,
-        "feelsLike": -1.39,
+        "temp": 1.19,
+        "feelsLike": -1.85,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3653,8 +3680,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 1.44,
-        "feelsLike": -1.58,
+        "temp": 1.07,
+        "feelsLike": -1.99,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3662,8 +3689,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 1.27,
-        "feelsLike": -1.77,
+        "temp": 0.94,
+        "feelsLike": -2.14,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3671,8 +3698,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 1.1,
-        "feelsLike": -1.96,
+        "temp": 0.82,
+        "feelsLike": -2.28,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3680,8 +3707,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 1.08,
-        "feelsLike": -2,
+        "temp": 0.84,
+        "feelsLike": -2.27,
         "rain": 0,
         "wind": 3.09,
         "windDir": "SW",
@@ -3689,8 +3716,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 1.05,
-        "feelsLike": -2.04,
+        "temp": 0.86,
+        "feelsLike": -2.25,
         "rain": 0,
         "wind": 3.1,
         "windDir": "W",
@@ -3698,21 +3725,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 1.03,
-        "feelsLike": -2.08,
+        "temp": 0.88,
+        "feelsLike": -2.24,
         "rain": 0,
         "wind": 3.12,
         "windDir": "W",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 1.63,
-        "feelsLike": -1.29,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 0.9,
+        "feelsLike": -2.24,
         "rain": 0,
-        "wind": 2.89,
-        "windDir": "SW",
-        "icon": "13_day"
+        "wind": 3.13,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 1.25,
+        "feelsLike": -1.84,
+        "rain": 0,
+        "wind": 3.12,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 1.6,
+        "feelsLike": -1.43,
+        "rain": 0,
+        "wind": 3.11,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 1.96,
+        "feelsLike": -1.03,
+        "rain": 0,
+        "wind": 3.1,
+        "windDir": "W",
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -3788,8 +3842,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.85,
-        "feelsLike": 12.12,
+        "temp": 13.39,
+        "feelsLike": 11.62,
         "rain": 0,
         "wind": 2.42,
         "windDir": "NE",
@@ -3797,17 +3851,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 11.58,
-        "feelsLike": 9.86,
+        "temp": 9.35,
+        "feelsLike": 7.63,
         "rain": 0,
         "wind": 2.3,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 9.83,
-        "feelsLike": 8.08,
+        "temp": 7.77,
+        "feelsLike": 6.02,
         "rain": 0,
         "wind": 2.17,
         "windDir": "SE",
@@ -3815,8 +3869,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 8.43,
-        "feelsLike": 6.56,
+        "temp": 6.55,
+        "feelsLike": 4.68,
         "rain": 0,
         "wind": 2.23,
         "windDir": "S",
@@ -3824,8 +3878,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 7.4,
-        "feelsLike": 5.42,
+        "temp": 5.7,
+        "feelsLike": 3.71,
         "rain": 0,
         "wind": 2.3,
         "windDir": "SW",
@@ -3833,8 +3887,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 6.45,
-        "feelsLike": 4.21,
+        "temp": 4.93,
+        "feelsLike": 2.68,
         "rain": 0,
         "wind": 2.47,
         "windDir": "SW",
@@ -3842,8 +3896,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.46,
-        "feelsLike": 2.96,
+        "temp": 4.11,
+        "feelsLike": 1.61,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -3851,8 +3905,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.37,
-        "feelsLike": 1.7,
+        "temp": 3.2,
+        "feelsLike": 0.52,
         "rain": 0,
         "wind": 2.9,
         "windDir": "SW",
@@ -3860,8 +3914,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.4,
-        "feelsLike": 0.64,
+        "temp": 2.41,
+        "feelsLike": -0.39,
         "rain": 0,
         "wind": 2.98,
         "windDir": "SW",
@@ -3869,8 +3923,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 2.8,
-        "feelsLike": -0.06,
+        "temp": 1.98,
+        "feelsLike": -0.92,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3878,8 +3932,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 2.27,
-        "feelsLike": -0.63,
+        "temp": 1.63,
+        "feelsLike": -1.34,
         "rain": 0,
         "wind": 3.06,
         "windDir": "SW",
@@ -3887,8 +3941,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 1.78,
-        "feelsLike": -1.2,
+        "temp": 1.32,
+        "feelsLike": -1.7,
         "rain": 0,
         "wind": 3.08,
         "windDir": "SW",
@@ -3896,8 +3950,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 1.1,
-        "feelsLike": -1.96,
+        "temp": 0.82,
+        "feelsLike": -2.28,
         "rain": 0,
         "wind": 3.07,
         "windDir": "SW",
@@ -3905,8 +3959,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 1,
-        "feelsLike": -2.13,
+        "temp": 0.9,
+        "feelsLike": -2.24,
         "rain": 0,
         "wind": 3.13,
         "windDir": "W",
@@ -3914,8 +3968,8 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 2.24,
-        "feelsLike": -0.69,
+        "temp": 2.31,
+        "feelsLike": -0.62,
         "rain": 0,
         "wind": 3.09,
         "windDir": "W",
@@ -3923,7 +3977,7 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 4.7,
+        "temp": 4.69,
         "feelsLike": 2.37,
         "rain": 0,
         "wind": 2.71,
@@ -4476,7 +4530,7 @@
         "feelsLike": 7.96,
         "rain": 0,
         "wind": 4.08,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "4_night"
       },
       {
@@ -4611,7 +4665,7 @@
         "feelsLike": 16.05,
         "rain": 0.24,
         "wind": 10.78,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -4620,7 +4674,7 @@
         "feelsLike": 15.2,
         "rain": 0.05,
         "wind": 11.41,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -4629,7 +4683,7 @@
         "feelsLike": 14.48,
         "rain": 0,
         "wind": 10.85,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "7_day"
       },
       {
@@ -4719,7 +4773,7 @@
         "feelsLike": 3.77,
         "rain": 0,
         "wind": 9.12,
-        "windDir": "W",
+        "windDir": "NW",
         "icon": "4_night"
       },
       {
@@ -4728,7 +4782,7 @@
         "feelsLike": 3.25,
         "rain": 0,
         "wind": 9.3,
-        "windDir": "W",
+        "windDir": "NW",
         "icon": "4_night"
       },
       {
@@ -4746,7 +4800,7 @@
         "feelsLike": 2.85,
         "rain": 0,
         "wind": 9.76,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -4755,7 +4809,7 @@
         "feelsLike": 2.9,
         "rain": 0,
         "wind": 10.05,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -4764,7 +4818,7 @@
         "feelsLike": 2.84,
         "rain": 0,
         "wind": 10.2,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -4773,7 +4827,7 @@
         "feelsLike": 3.25,
         "rain": 0,
         "wind": 10.45,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_day"
       },
       {
@@ -4782,7 +4836,7 @@
         "feelsLike": 4.46,
         "rain": 0,
         "wind": 10.73,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_day"
       },
       {
@@ -4827,7 +4881,7 @@
         "feelsLike": 8.88,
         "rain": 0.02,
         "wind": 13.85,
-        "windDir": "W",
+        "windDir": "NW",
         "icon": "7_day"
       },
       {
@@ -5170,7 +5224,7 @@
       {
         "date": "2025-06-20T14:00:00.000Z",
         "dayLabel": "Sat",
-        "tempMin": 1,
+        "tempMin": 0.82,
         "tempMax": 12.2,
         "rain": 0,
         "convRain": 0,
@@ -6329,13 +6383,40 @@
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 2.53,
-        "feelsLike": 0.29,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 0.47,
+        "feelsLike": -1.72,
         "rain": 0,
-        "wind": 0.67,
+        "wind": 0.39,
         "windDir": "N",
-        "icon": "13_day"
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 0.61,
+        "feelsLike": -1.55,
+        "rain": 0,
+        "wind": 0.37,
+        "windDir": "N",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 0.75,
+        "feelsLike": -1.38,
+        "rain": 0,
+        "wind": 0.33,
+        "windDir": "N",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 0.89,
+        "feelsLike": -1.21,
+        "rain": 0,
+        "wind": 0.3,
+        "windDir": "N",
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -7234,7 +7315,7 @@
         "feelsLike": 16.2,
         "rain": 0.05,
         "wind": 11.28,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -7243,7 +7324,7 @@
         "feelsLike": 16.38,
         "rain": 0.01,
         "wind": 11.55,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "4_day"
       },
       {
@@ -7252,7 +7333,7 @@
         "feelsLike": 15.95,
         "rain": 0,
         "wind": 11.07,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "8_day"
       },
       {
@@ -7261,7 +7342,7 @@
         "feelsLike": 15.37,
         "rain": 0,
         "wind": 10.05,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "8_day"
       },
       {
@@ -7378,7 +7459,7 @@
         "feelsLike": 5.45,
         "rain": 0,
         "wind": 4.98,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_night"
       },
       {
@@ -7387,7 +7468,7 @@
         "feelsLike": 5.56,
         "rain": 0,
         "wind": 4.7,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_night"
       },
       {
@@ -7396,7 +7477,7 @@
         "feelsLike": 5.78,
         "rain": 0,
         "wind": 4.59,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_day"
       },
       {
@@ -7414,7 +7495,7 @@
         "feelsLike": 6.75,
         "rain": 0,
         "wind": 7.09,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_day"
       },
       {
@@ -7423,7 +7504,7 @@
         "feelsLike": 7.47,
         "rain": 0,
         "wind": 9.78,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "1_day"
       },
       {
@@ -7432,7 +7513,7 @@
         "feelsLike": 8.19,
         "rain": 0,
         "wind": 12.2,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "4_day"
       },
       {
@@ -7468,7 +7549,7 @@
         "feelsLike": 9.5,
         "rain": 0,
         "wind": 14.32,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "4_day"
       },
       {
@@ -7504,7 +7585,7 @@
         "feelsLike": 8.15,
         "rain": 0,
         "wind": 9.79,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -7630,7 +7711,7 @@
         "feelsLike": 4.86,
         "rain": 0,
         "wind": 3.58,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_day"
       },
       {
@@ -8476,8 +8557,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 14.77,
-        "feelsLike": 13.64,
+        "temp": 14.86,
+        "feelsLike": 13.78,
         "rain": 0,
         "wind": 3.03,
         "windDir": "SE",
@@ -8485,8 +8566,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.89,
-        "feelsLike": 12.67,
+        "temp": 14.17,
+        "feelsLike": 13.08,
         "rain": 0,
         "wind": 2.81,
         "windDir": "SE",
@@ -8494,8 +8575,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 13.48,
-        "feelsLike": 12.31,
+        "temp": 13.33,
+        "feelsLike": 12.21,
         "rain": 0,
         "wind": 2.62,
         "windDir": "SE",
@@ -8503,8 +8584,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 13.08,
-        "feelsLike": 11.95,
+        "temp": 12.5,
+        "feelsLike": 11.34,
         "rain": 0,
         "wind": 2.45,
         "windDir": "SE",
@@ -8512,8 +8593,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 12.67,
-        "feelsLike": 11.59,
+        "temp": 11.76,
+        "feelsLike": 10.56,
         "rain": 0,
         "wind": 2.28,
         "windDir": "S",
@@ -8521,44 +8602,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 12.26,
-        "feelsLike": 11.23,
+        "temp": 11.11,
+        "feelsLike": 9.88,
         "rain": 0,
         "wind": 2.1,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 11.98,
-        "feelsLike": 11.02,
+        "temp": 10.85,
+        "feelsLike": 9.69,
         "rain": 0,
         "wind": 1.9,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 11.7,
-        "feelsLike": 10.81,
+        "temp": 10.6,
+        "feelsLike": 9.5,
         "rain": 0,
         "wind": 1.69,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 11.42,
-        "feelsLike": 10.59,
+        "temp": 10.34,
+        "feelsLike": 9.32,
         "rain": 0,
         "wind": 1.49,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 11.14,
-        "feelsLike": 10.37,
+        "temp": 10.08,
+        "feelsLike": 9.12,
         "rain": 0,
         "wind": 1.31,
         "windDir": "S",
@@ -8566,8 +8647,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 10.93,
-        "feelsLike": 10.18,
+        "temp": 9.89,
+        "feelsLike": 8.96,
         "rain": 0,
         "wind": 1.17,
         "windDir": "S",
@@ -8575,8 +8656,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 10.71,
-        "feelsLike": 9.98,
+        "temp": 9.69,
+        "feelsLike": 8.78,
         "rain": 0,
         "wind": 1.08,
         "windDir": "S",
@@ -8584,8 +8665,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 10.49,
-        "feelsLike": 9.75,
+        "temp": 9.49,
+        "feelsLike": 8.58,
         "rain": 0,
         "wind": 1.06,
         "windDir": "SW",
@@ -8593,8 +8674,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 9.5,
+        "temp": 9.3,
+        "feelsLike": 8.35,
         "rain": 0,
         "wind": 1.09,
         "windDir": "SW",
@@ -8602,8 +8683,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 10.06,
-        "feelsLike": 9.23,
+        "temp": 9.11,
+        "feelsLike": 8.11,
         "rain": 0,
         "wind": 1.17,
         "windDir": "SW",
@@ -8611,8 +8692,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 9.85,
-        "feelsLike": 8.94,
+        "temp": 8.92,
+        "feelsLike": 7.85,
         "rain": 0,
         "wind": 1.32,
         "windDir": "SW",
@@ -8620,8 +8701,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 9.64,
-        "feelsLike": 8.64,
+        "temp": 8.73,
+        "feelsLike": 7.57,
         "rain": 0,
         "wind": 1.5,
         "windDir": "SW",
@@ -8629,8 +8710,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 9.43,
-        "feelsLike": 8.34,
+        "temp": 8.55,
+        "feelsLike": 7.3,
         "rain": 0,
         "wind": 1.67,
         "windDir": "SW",
@@ -8638,8 +8719,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 9.23,
-        "feelsLike": 8.05,
+        "temp": 8.37,
+        "feelsLike": 7.04,
         "rain": 0,
         "wind": 1.8,
         "windDir": "SW",
@@ -8647,8 +8728,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 9.03,
-        "feelsLike": 7.78,
+        "temp": 8.19,
+        "feelsLike": 6.8,
         "rain": 0,
         "wind": 1.89,
         "windDir": "SW",
@@ -8656,8 +8737,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 8.83,
-        "feelsLike": 7.52,
+        "temp": 8.01,
+        "feelsLike": 6.57,
         "rain": 0,
         "wind": 1.96,
         "windDir": "W",
@@ -8665,8 +8746,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 8.63,
-        "feelsLike": 7.25,
+        "temp": 7.83,
+        "feelsLike": 6.32,
         "rain": 0,
         "wind": 2.05,
         "windDir": "W",
@@ -8674,8 +8755,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 8.47,
-        "feelsLike": 7.02,
+        "temp": 7.7,
+        "feelsLike": 6.12,
         "rain": 0,
         "wind": 2.16,
         "windDir": "W",
@@ -8683,8 +8764,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 8.31,
-        "feelsLike": 6.79,
+        "temp": 7.56,
+        "feelsLike": 5.92,
         "rain": 0,
         "wind": 2.28,
         "windDir": "W",
@@ -8692,8 +8773,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 8.16,
-        "feelsLike": 6.56,
+        "temp": 7.43,
+        "feelsLike": 5.72,
         "rain": 0,
         "wind": 2.39,
         "windDir": "W",
@@ -8701,8 +8782,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 8,
-        "feelsLike": 6.35,
+        "temp": 7.29,
+        "feelsLike": 5.53,
         "rain": 0,
         "wind": 2.47,
         "windDir": "W",
@@ -8710,8 +8791,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 7.87,
-        "feelsLike": 6.17,
+        "temp": 7.19,
+        "feelsLike": 5.38,
         "rain": 0,
         "wind": 2.53,
         "windDir": "W",
@@ -8719,8 +8800,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 7.74,
-        "feelsLike": 6.01,
+        "temp": 7.08,
+        "feelsLike": 5.24,
         "rain": 0,
         "wind": 2.57,
         "windDir": "W",
@@ -8728,8 +8809,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 7.61,
-        "feelsLike": 5.85,
+        "temp": 6.97,
+        "feelsLike": 5.11,
         "rain": 0,
         "wind": 2.6,
         "windDir": "W",
@@ -8737,8 +8818,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 7.48,
-        "feelsLike": 5.69,
+        "temp": 6.86,
+        "feelsLike": 4.98,
         "rain": 0,
         "wind": 2.6,
         "windDir": "W",
@@ -8746,8 +8827,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 7.35,
-        "feelsLike": 5.55,
+        "temp": 6.75,
+        "feelsLike": 4.86,
         "rain": 0,
         "wind": 2.57,
         "windDir": "W",
@@ -8755,8 +8836,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 7.21,
-        "feelsLike": 5.42,
+        "temp": 6.64,
+        "feelsLike": 4.75,
         "rain": 0,
         "wind": 2.52,
         "windDir": "W",
@@ -8764,8 +8845,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 7.08,
-        "feelsLike": 5.28,
+        "temp": 6.53,
+        "feelsLike": 4.65,
         "rain": 0,
         "wind": 2.46,
         "windDir": "W",
@@ -8773,8 +8854,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 6.94,
-        "feelsLike": 5.14,
+        "temp": 6.42,
+        "feelsLike": 4.53,
         "rain": 0,
         "wind": 2.44,
         "windDir": "W",
@@ -8782,8 +8863,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 6.8,
-        "feelsLike": 4.95,
+        "temp": 6.3,
+        "feelsLike": 4.37,
         "rain": 0,
         "wind": 2.47,
         "windDir": "W",
@@ -8791,8 +8872,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 6.66,
-        "feelsLike": 4.75,
+        "temp": 6.18,
+        "feelsLike": 4.2,
         "rain": 0,
         "wind": 2.53,
         "windDir": "W",
@@ -8800,8 +8881,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 6.51,
-        "feelsLike": 4.56,
+        "temp": 6.05,
+        "feelsLike": 4.02,
         "rain": 0,
         "wind": 2.6,
         "windDir": "W",
@@ -8809,8 +8890,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 6.37,
-        "feelsLike": 4.37,
+        "temp": 5.93,
+        "feelsLike": 3.86,
         "rain": 0,
         "wind": 2.63,
         "windDir": "W",
@@ -8818,8 +8899,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 6.25,
-        "feelsLike": 4.24,
+        "temp": 5.84,
+        "feelsLike": 3.76,
         "rain": 0,
         "wind": 2.61,
         "windDir": "W",
@@ -8827,8 +8908,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 6.14,
-        "feelsLike": 4.13,
+        "temp": 5.75,
+        "feelsLike": 3.67,
         "rain": 0,
         "wind": 2.56,
         "windDir": "W",
@@ -8836,8 +8917,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 6.02,
-        "feelsLike": 4.01,
+        "temp": 5.65,
+        "feelsLike": 3.58,
         "rain": 0,
         "wind": 2.51,
         "windDir": "W",
@@ -8845,8 +8926,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 5.91,
-        "feelsLike": 3.88,
+        "temp": 5.56,
+        "feelsLike": 3.47,
         "rain": 0,
         "wind": 2.51,
         "windDir": "W",
@@ -8854,8 +8935,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 5.8,
-        "feelsLike": 3.75,
+        "temp": 5.48,
+        "feelsLike": 3.37,
         "rain": 0,
         "wind": 2.57,
         "windDir": "W",
@@ -8863,8 +8944,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 5.7,
-        "feelsLike": 3.6,
+        "temp": 5.4,
+        "feelsLike": 3.25,
         "rain": 0,
         "wind": 2.68,
         "windDir": "W",
@@ -8872,8 +8953,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 5.6,
-        "feelsLike": 3.45,
+        "temp": 5.32,
+        "feelsLike": 3.12,
         "rain": 0,
         "wind": 2.79,
         "windDir": "W",
@@ -8881,8 +8962,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 5.49,
-        "feelsLike": 3.32,
+        "temp": 5.24,
+        "feelsLike": 3.02,
         "rain": 0,
         "wind": 2.85,
         "windDir": "W",
@@ -8890,8 +8971,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 5.4,
-        "feelsLike": 3.18,
+        "temp": 5.16,
+        "feelsLike": 2.91,
         "rain": 0,
         "wind": 2.86,
         "windDir": "W",
@@ -8899,8 +8980,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 5.3,
-        "feelsLike": 3.06,
+        "temp": 5.09,
+        "feelsLike": 2.81,
         "rain": 0,
         "wind": 2.83,
         "windDir": "W",
@@ -8908,8 +8989,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 5.21,
-        "feelsLike": 2.94,
+        "temp": 5.02,
+        "feelsLike": 2.71,
         "rain": 0,
         "wind": 2.79,
         "windDir": "W",
@@ -8917,8 +8998,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 5.12,
-        "feelsLike": 2.82,
+        "temp": 4.95,
+        "feelsLike": 2.62,
         "rain": 0,
         "wind": 2.76,
         "windDir": "W",
@@ -8926,8 +9007,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 5.11,
-        "feelsLike": 2.81,
+        "temp": 4.96,
+        "feelsLike": 2.63,
         "rain": 0,
         "wind": 2.73,
         "windDir": "W",
@@ -8935,8 +9016,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 5.1,
-        "feelsLike": 2.8,
+        "temp": 4.98,
+        "feelsLike": 2.65,
         "rain": 0,
         "wind": 2.7,
         "windDir": "NW",
@@ -8944,21 +9025,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 5.1,
-        "feelsLike": 2.79,
+        "temp": 5,
+        "feelsLike": 2.67,
         "rain": 0,
         "wind": 2.67,
         "windDir": "NW",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 5.56,
-        "feelsLike": 3.3,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 5.01,
+        "feelsLike": 2.68,
         "rain": 0,
-        "wind": 2.5,
+        "wind": 2.66,
+        "windDir": "NW",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 5.25,
+        "feelsLike": 2.96,
+        "rain": 0,
+        "wind": 2.68,
+        "windDir": "NW",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 5.5,
+        "feelsLike": 3.24,
+        "rain": 0,
+        "wind": 2.7,
+        "windDir": "NW",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 5.74,
+        "feelsLike": 3.52,
+        "rain": 0,
+        "wind": 2.74,
         "windDir": "W",
-        "icon": "4_day"
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -9034,8 +9142,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 13.89,
-        "feelsLike": 12.67,
+        "temp": 14.17,
+        "feelsLike": 13.08,
         "rain": 0,
         "wind": 2.81,
         "windDir": "SE",
@@ -9043,17 +9151,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 12.26,
-        "feelsLike": 11.23,
+        "temp": 11.11,
+        "feelsLike": 9.88,
         "rain": 0,
         "wind": 2.1,
         "windDir": "S",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 11.14,
-        "feelsLike": 10.37,
+        "temp": 10.08,
+        "feelsLike": 9.12,
         "rain": 0,
         "wind": 1.31,
         "windDir": "S",
@@ -9061,8 +9169,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 9.5,
+        "temp": 9.3,
+        "feelsLike": 8.35,
         "rain": 0,
         "wind": 1.09,
         "windDir": "SW",
@@ -9070,8 +9178,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 9.43,
-        "feelsLike": 8.34,
+        "temp": 8.55,
+        "feelsLike": 7.3,
         "rain": 0,
         "wind": 1.67,
         "windDir": "SW",
@@ -9079,8 +9187,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 8.63,
-        "feelsLike": 7.25,
+        "temp": 7.83,
+        "feelsLike": 6.32,
         "rain": 0,
         "wind": 2.05,
         "windDir": "W",
@@ -9088,8 +9196,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 8,
-        "feelsLike": 6.35,
+        "temp": 7.29,
+        "feelsLike": 5.53,
         "rain": 0,
         "wind": 2.47,
         "windDir": "W",
@@ -9097,8 +9205,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 7.48,
-        "feelsLike": 5.69,
+        "temp": 6.86,
+        "feelsLike": 4.98,
         "rain": 0,
         "wind": 2.6,
         "windDir": "W",
@@ -9106,8 +9214,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 6.94,
-        "feelsLike": 5.14,
+        "temp": 6.42,
+        "feelsLike": 4.53,
         "rain": 0,
         "wind": 2.44,
         "windDir": "W",
@@ -9115,8 +9223,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 6.37,
-        "feelsLike": 4.37,
+        "temp": 5.93,
+        "feelsLike": 3.86,
         "rain": 0,
         "wind": 2.63,
         "windDir": "W",
@@ -9124,8 +9232,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 5.91,
-        "feelsLike": 3.88,
+        "temp": 5.56,
+        "feelsLike": 3.47,
         "rain": 0,
         "wind": 2.51,
         "windDir": "W",
@@ -9133,8 +9241,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 5.49,
-        "feelsLike": 3.32,
+        "temp": 5.24,
+        "feelsLike": 3.02,
         "rain": 0,
         "wind": 2.85,
         "windDir": "W",
@@ -9142,8 +9250,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 5.12,
-        "feelsLike": 2.82,
+        "temp": 4.95,
+        "feelsLike": 2.62,
         "rain": 0,
         "wind": 2.76,
         "windDir": "W",
@@ -9151,8 +9259,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 5.09,
-        "feelsLike": 2.78,
+        "temp": 5.01,
+        "feelsLike": 2.68,
         "rain": 0,
         "wind": 2.66,
         "windDir": "NW",
@@ -9160,7 +9268,7 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 5.97,
+        "temp": 5.98,
         "feelsLike": 3.79,
         "rain": 0,
         "wind": 2.78,
@@ -9169,8 +9277,8 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 7.93,
-        "feelsLike": 5.92,
+        "temp": 7.94,
+        "feelsLike": 5.93,
         "rain": 0,
         "wind": 2.97,
         "windDir": "W",
@@ -9668,7 +9776,7 @@
         "feelsLike": 18.94,
         "rain": 0,
         "wind": 4.36,
-        "windDir": "NE",
+        "windDir": "N",
         "icon": "1_day"
       },
       {
@@ -9686,7 +9794,7 @@
         "feelsLike": 15.77,
         "rain": 0,
         "wind": 4.06,
-        "windDir": "NE",
+        "windDir": "N",
         "icon": "1_day"
       },
       {
@@ -9740,7 +9848,7 @@
         "feelsLike": 10.63,
         "rain": 0,
         "wind": 4.93,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "4_night"
       },
       {
@@ -9749,7 +9857,7 @@
         "feelsLike": 10.04,
         "rain": 0,
         "wind": 4.91,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "13_night"
       },
       {
@@ -9758,7 +9866,7 @@
         "feelsLike": 9.43,
         "rain": 0,
         "wind": 4.88,
-        "windDir": "N",
+        "windDir": "NW",
         "icon": "13_night"
       },
       {
@@ -9857,7 +9965,7 @@
         "feelsLike": 16.92,
         "rain": 0.14,
         "wind": 14.43,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -9866,7 +9974,7 @@
         "feelsLike": 16.88,
         "rain": 0.03,
         "wind": 14.48,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -10416,7 +10524,7 @@
       {
         "date": "2025-06-20T14:00:00.000Z",
         "dayLabel": "Sat",
-        "tempMin": 5.09,
+        "tempMin": 4.95,
         "tempMax": 13.57,
         "rain": 0,
         "convRain": 0,
@@ -11099,8 +11207,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 11.97,
-        "feelsLike": 10.68,
+        "temp": 11.85,
+        "feelsLike": 10.55,
         "rain": 0,
         "wind": 1.23,
         "windDir": "NE",
@@ -11108,8 +11216,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 11.15,
-        "feelsLike": 9.93,
+        "temp": 10.84,
+        "feelsLike": 9.59,
         "rain": 0,
         "wind": 1.06,
         "windDir": "E",
@@ -11117,8 +11225,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 10.61,
-        "feelsLike": 9.37,
+        "temp": 10.01,
+        "feelsLike": 8.74,
         "rain": 0,
         "wind": 0.96,
         "windDir": "E",
@@ -11126,8 +11234,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 10.08,
-        "feelsLike": 8.76,
+        "temp": 9.23,
+        "feelsLike": 7.9,
         "rain": 0,
         "wind": 0.96,
         "windDir": "SE",
@@ -11135,8 +11243,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 9.54,
-        "feelsLike": 8.13,
+        "temp": 8.48,
+        "feelsLike": 7.05,
         "rain": 0,
         "wind": 1.07,
         "windDir": "S",
@@ -11144,44 +11252,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 9,
-        "feelsLike": 7.48,
+        "temp": 7.75,
+        "feelsLike": 6.2,
         "rain": 0,
         "wind": 1.21,
         "windDir": "S",
-        "icon": "1_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 8.62,
-        "feelsLike": 7,
+        "temp": 7.39,
+        "feelsLike": 5.75,
         "rain": 0,
         "wind": 1.36,
         "windDir": "S",
-        "icon": "1_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 8.23,
-        "feelsLike": 6.52,
+        "temp": 7.02,
+        "feelsLike": 5.29,
         "rain": 0,
         "wind": 1.51,
         "windDir": "S",
-        "icon": "1_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 7.84,
-        "feelsLike": 6.04,
+        "temp": 6.66,
+        "feelsLike": 4.84,
         "rain": 0,
         "wind": 1.65,
         "windDir": "S",
-        "icon": "1_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 7.45,
-        "feelsLike": 5.58,
+        "temp": 6.29,
+        "feelsLike": 4.41,
         "rain": 0,
         "wind": 1.75,
         "windDir": "S",
@@ -11189,8 +11297,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 7.21,
-        "feelsLike": 5.3,
+        "temp": 6.07,
+        "feelsLike": 4.15,
         "rain": 0,
         "wind": 1.79,
         "windDir": "S",
@@ -11198,8 +11306,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 6.97,
-        "feelsLike": 5.04,
+        "temp": 5.86,
+        "feelsLike": 3.92,
         "rain": 0,
         "wind": 1.77,
         "windDir": "S",
@@ -11207,8 +11315,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 6.73,
-        "feelsLike": 4.79,
+        "temp": 5.64,
+        "feelsLike": 3.69,
         "rain": 0,
         "wind": 1.73,
         "windDir": "S",
@@ -11216,8 +11324,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 6.49,
-        "feelsLike": 4.54,
+        "temp": 5.43,
+        "feelsLike": 3.46,
         "rain": 0,
         "wind": 1.7,
         "windDir": "S",
@@ -11225,8 +11333,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 6.38,
-        "feelsLike": 4.43,
+        "temp": 5.35,
+        "feelsLike": 3.37,
         "rain": 0,
         "wind": 1.68,
         "windDir": "SW",
@@ -11234,8 +11342,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 6.28,
-        "feelsLike": 4.32,
+        "temp": 5.26,
+        "feelsLike": 3.29,
         "rain": 0,
         "wind": 1.66,
         "windDir": "SW",
@@ -11243,8 +11351,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 6.17,
-        "feelsLike": 4.21,
+        "temp": 5.18,
+        "feelsLike": 3.2,
         "rain": 0,
         "wind": 1.65,
         "windDir": "SW",
@@ -11252,8 +11360,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 6.07,
-        "feelsLike": 4.09,
+        "temp": 5.1,
+        "feelsLike": 3.11,
         "rain": 0,
         "wind": 1.65,
         "windDir": "SW",
@@ -11261,8 +11369,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 5.97,
-        "feelsLike": 3.96,
+        "temp": 5.03,
+        "feelsLike": 3,
         "rain": 0,
         "wind": 1.68,
         "windDir": "SW",
@@ -11270,8 +11378,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 5.87,
-        "feelsLike": 3.82,
+        "temp": 4.95,
+        "feelsLike": 2.88,
         "rain": 0,
         "wind": 1.72,
         "windDir": "SW",
@@ -11279,8 +11387,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 5.77,
-        "feelsLike": 3.68,
+        "temp": 4.88,
+        "feelsLike": 2.77,
         "rain": 0,
         "wind": 1.77,
         "windDir": "SW",
@@ -11288,8 +11396,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 5.67,
-        "feelsLike": 3.54,
+        "temp": 4.8,
+        "feelsLike": 2.65,
         "rain": 0,
         "wind": 1.8,
         "windDir": "SW",
@@ -11297,8 +11405,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 5.55,
-        "feelsLike": 3.39,
+        "temp": 4.7,
+        "feelsLike": 2.53,
         "rain": 0,
         "wind": 1.81,
         "windDir": "SW",
@@ -11306,8 +11414,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 5.42,
-        "feelsLike": 3.24,
+        "temp": 4.6,
+        "feelsLike": 2.4,
         "rain": 0,
         "wind": 1.82,
         "windDir": "SW",
@@ -11315,8 +11423,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 5.29,
-        "feelsLike": 3.09,
+        "temp": 4.49,
+        "feelsLike": 2.28,
         "rain": 0,
         "wind": 1.82,
         "windDir": "SW",
@@ -11324,8 +11432,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.17,
-        "feelsLike": 2.94,
+        "temp": 4.39,
+        "feelsLike": 2.15,
         "rain": 0,
         "wind": 1.82,
         "windDir": "SW",
@@ -11333,8 +11441,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 4.97,
-        "feelsLike": 2.74,
+        "temp": 4.22,
+        "feelsLike": 1.98,
         "rain": 0,
         "wind": 1.82,
         "windDir": "SW",
@@ -11342,8 +11450,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 4.78,
-        "feelsLike": 2.54,
+        "temp": 4.05,
+        "feelsLike": 1.8,
         "rain": 0,
         "wind": 1.81,
         "windDir": "SW",
@@ -11351,8 +11459,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 4.58,
-        "feelsLike": 2.34,
+        "temp": 3.88,
+        "feelsLike": 1.62,
         "rain": 0,
         "wind": 1.8,
         "windDir": "SW",
@@ -11360,8 +11468,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.39,
-        "feelsLike": 2.15,
+        "temp": 3.71,
+        "feelsLike": 1.45,
         "rain": 0,
         "wind": 1.79,
         "windDir": "SW",
@@ -11369,8 +11477,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 4.23,
-        "feelsLike": 1.98,
+        "temp": 3.58,
+        "feelsLike": 1.31,
         "rain": 0,
         "wind": 1.78,
         "windDir": "SW",
@@ -11378,8 +11486,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 4.07,
-        "feelsLike": 1.82,
+        "temp": 3.44,
+        "feelsLike": 1.17,
         "rain": 0,
         "wind": 1.77,
         "windDir": "SW",
@@ -11387,8 +11495,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 3.92,
-        "feelsLike": 1.66,
+        "temp": 3.31,
+        "feelsLike": 1.03,
         "rain": 0,
         "wind": 1.76,
         "windDir": "SW",
@@ -11396,8 +11504,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.76,
-        "feelsLike": 1.49,
+        "temp": 3.17,
+        "feelsLike": 0.9,
         "rain": 0,
         "wind": 1.75,
         "windDir": "SW",
@@ -11405,8 +11513,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 3.62,
-        "feelsLike": 1.36,
+        "temp": 3.06,
+        "feelsLike": 0.79,
         "rain": 0,
         "wind": 1.73,
         "windDir": "SW",
@@ -11414,8 +11522,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 3.49,
-        "feelsLike": 1.23,
+        "temp": 2.95,
+        "feelsLike": 0.68,
         "rain": 0,
         "wind": 1.7,
         "windDir": "SW",
@@ -11423,8 +11531,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 3.36,
-        "feelsLike": 1.1,
+        "temp": 2.84,
+        "feelsLike": 0.58,
         "rain": 0,
         "wind": 1.68,
         "windDir": "SW",
@@ -11432,8 +11540,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 3.22,
-        "feelsLike": 0.97,
+        "temp": 2.74,
+        "feelsLike": 0.47,
         "rain": 0,
         "wind": 1.66,
         "windDir": "SW",
@@ -11441,8 +11549,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 3.13,
-        "feelsLike": 0.88,
+        "temp": 2.66,
+        "feelsLike": 0.4,
         "rain": 0,
         "wind": 1.63,
         "windDir": "SW",
@@ -11450,8 +11558,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 3.03,
-        "feelsLike": 0.78,
+        "temp": 2.59,
+        "feelsLike": 0.33,
         "rain": 0,
         "wind": 1.59,
         "windDir": "W",
@@ -11459,8 +11567,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 2.94,
-        "feelsLike": 0.69,
+        "temp": 2.52,
+        "feelsLike": 0.26,
         "rain": 0,
         "wind": 1.56,
         "windDir": "W",
@@ -11468,8 +11576,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 2.84,
-        "feelsLike": 0.58,
+        "temp": 2.45,
+        "feelsLike": 0.17,
         "rain": 0,
         "wind": 1.56,
         "windDir": "W",
@@ -11477,8 +11585,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 2.73,
-        "feelsLike": 0.46,
+        "temp": 2.36,
+        "feelsLike": 0.06,
         "rain": 0,
         "wind": 1.58,
         "windDir": "W",
@@ -11486,8 +11594,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 2.61,
-        "feelsLike": 0.32,
+        "temp": 2.27,
+        "feelsLike": -0.06,
         "rain": 0,
         "wind": 1.63,
         "windDir": "W",
@@ -11495,8 +11603,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 2.5,
-        "feelsLike": 0.19,
+        "temp": 2.18,
+        "feelsLike": -0.19,
         "rain": 0,
         "wind": 1.68,
         "windDir": "W",
@@ -11504,8 +11612,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 2.39,
-        "feelsLike": 0.04,
+        "temp": 2.09,
+        "feelsLike": -0.31,
         "rain": 0,
         "wind": 1.73,
         "windDir": "W",
@@ -11513,8 +11621,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 2.29,
-        "feelsLike": -0.1,
+        "temp": 2.01,
+        "feelsLike": -0.42,
         "rain": 0,
         "wind": 1.79,
         "windDir": "W",
@@ -11522,8 +11630,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 2.18,
-        "feelsLike": -0.25,
+        "temp": 1.94,
+        "feelsLike": -0.54,
         "rain": 0,
         "wind": 1.85,
         "windDir": "W",
@@ -11531,8 +11639,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 2.08,
-        "feelsLike": -0.39,
+        "temp": 1.86,
+        "feelsLike": -0.65,
         "rain": 0,
         "wind": 1.91,
         "windDir": "W",
@@ -11540,8 +11648,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 1.98,
-        "feelsLike": -0.52,
+        "temp": 1.78,
+        "feelsLike": -0.75,
         "rain": 0,
         "wind": 1.93,
         "windDir": "W",
@@ -11549,8 +11657,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 2.01,
-        "feelsLike": -0.46,
+        "temp": 1.84,
+        "feelsLike": -0.67,
         "rain": 0,
         "wind": 1.9,
         "windDir": "W",
@@ -11558,8 +11666,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 2.05,
-        "feelsLike": -0.4,
+        "temp": 1.9,
+        "feelsLike": -0.58,
         "rain": 0,
         "wind": 1.84,
         "windDir": "W",
@@ -11567,21 +11675,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 2.09,
-        "feelsLike": -0.34,
+        "temp": 1.96,
+        "feelsLike": -0.49,
         "rain": 0,
         "wind": 1.77,
         "windDir": "W",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 1.16,
-        "feelsLike": -1.41,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 2.02,
+        "feelsLike": -0.42,
         "rain": 0,
-        "wind": 1.62,
+        "wind": 1.73,
         "windDir": "W",
-        "icon": "13_day"
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 2.43,
+        "feelsLike": 0.03,
+        "rain": 0,
+        "wind": 1.74,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 2.84,
+        "feelsLike": 0.48,
+        "rain": 0,
+        "wind": 1.77,
+        "windDir": "W",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 3.26,
+        "feelsLike": 0.93,
+        "rain": 0,
+        "wind": 1.81,
+        "windDir": "W",
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -11657,8 +11792,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 11.15,
-        "feelsLike": 9.93,
+        "temp": 10.84,
+        "feelsLike": 9.59,
         "rain": 0,
         "wind": 1.06,
         "windDir": "E",
@@ -11666,17 +11801,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 9,
-        "feelsLike": 7.48,
+        "temp": 7.75,
+        "feelsLike": 6.2,
         "rain": 0,
         "wind": 1.21,
         "windDir": "S",
-        "icon": "1_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 7.45,
-        "feelsLike": 5.58,
+        "temp": 6.29,
+        "feelsLike": 4.41,
         "rain": 0,
         "wind": 1.75,
         "windDir": "S",
@@ -11684,8 +11819,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 6.49,
-        "feelsLike": 4.54,
+        "temp": 5.43,
+        "feelsLike": 3.46,
         "rain": 0,
         "wind": 1.7,
         "windDir": "S",
@@ -11693,8 +11828,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 6.07,
-        "feelsLike": 4.09,
+        "temp": 5.1,
+        "feelsLike": 3.11,
         "rain": 0,
         "wind": 1.65,
         "windDir": "SW",
@@ -11702,8 +11837,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 5.67,
-        "feelsLike": 3.54,
+        "temp": 4.8,
+        "feelsLike": 2.65,
         "rain": 0,
         "wind": 1.8,
         "windDir": "SW",
@@ -11711,8 +11846,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.17,
-        "feelsLike": 2.94,
+        "temp": 4.39,
+        "feelsLike": 2.15,
         "rain": 0,
         "wind": 1.82,
         "windDir": "SW",
@@ -11720,8 +11855,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.39,
-        "feelsLike": 2.15,
+        "temp": 3.71,
+        "feelsLike": 1.45,
         "rain": 0,
         "wind": 1.79,
         "windDir": "SW",
@@ -11729,8 +11864,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.76,
-        "feelsLike": 1.49,
+        "temp": 3.17,
+        "feelsLike": 0.9,
         "rain": 0,
         "wind": 1.75,
         "windDir": "SW",
@@ -11738,8 +11873,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 3.22,
-        "feelsLike": 0.97,
+        "temp": 2.74,
+        "feelsLike": 0.47,
         "rain": 0,
         "wind": 1.66,
         "windDir": "SW",
@@ -11747,8 +11882,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 2.84,
-        "feelsLike": 0.58,
+        "temp": 2.45,
+        "feelsLike": 0.17,
         "rain": 0,
         "wind": 1.56,
         "windDir": "W",
@@ -11756,8 +11891,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 2.39,
-        "feelsLike": 0.04,
+        "temp": 2.09,
+        "feelsLike": -0.31,
         "rain": 0,
         "wind": 1.73,
         "windDir": "W",
@@ -11765,8 +11900,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 1.98,
-        "feelsLike": -0.52,
+        "temp": 1.78,
+        "feelsLike": -0.75,
         "rain": 0,
         "wind": 1.93,
         "windDir": "W",
@@ -11774,8 +11909,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 2.12,
-        "feelsLike": -0.3,
+        "temp": 2.02,
+        "feelsLike": -0.42,
         "rain": 0,
         "wind": 1.73,
         "windDir": "W",
@@ -11783,8 +11918,8 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 3.68,
-        "feelsLike": 1.41,
+        "temp": 3.67,
+        "feelsLike": 1.38,
         "rain": 0,
         "wind": 1.82,
         "windDir": "W",
@@ -11792,8 +11927,8 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 6.29,
-        "feelsLike": 4.74,
+        "temp": 6.3,
+        "feelsLike": 4.75,
         "rain": 0,
         "wind": 1.7,
         "windDir": "W",
@@ -12309,7 +12444,7 @@
         "feelsLike": 13.68,
         "rain": 0,
         "wind": 2.86,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "1_day"
       },
       {
@@ -12453,7 +12588,7 @@
         "feelsLike": 14.12,
         "rain": 0.06,
         "wind": 3.18,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -12462,7 +12597,7 @@
         "feelsLike": 15.99,
         "rain": 0.09,
         "wind": 4.25,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -12471,7 +12606,7 @@
         "feelsLike": 17.11,
         "rain": 0.1,
         "wind": 6.19,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -12723,7 +12858,7 @@
         "feelsLike": 8.28,
         "rain": 0,
         "wind": 14.33,
-        "windDir": "W",
+        "windDir": "NW",
         "icon": "4_day"
       },
       {
@@ -13039,7 +13174,7 @@
       {
         "date": "2025-06-20T14:00:00.000Z",
         "dayLabel": "Sat",
-        "tempMin": 1.98,
+        "tempMin": 1.78,
         "tempMax": 12.86,
         "rain": 0,
         "convRain": 0,
@@ -13722,8 +13857,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 12.63,
-        "feelsLike": 10.84,
+        "temp": 12.78,
+        "feelsLike": 11.02,
         "rain": 0,
         "wind": 2.37,
         "windDir": "E",
@@ -13731,8 +13866,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 11.4,
-        "feelsLike": 9.6,
+        "temp": 11.95,
+        "feelsLike": 10.25,
         "rain": 0,
         "wind": 2.37,
         "windDir": "E",
@@ -13740,8 +13875,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 10.92,
-        "feelsLike": 9.13,
+        "temp": 11.37,
+        "feelsLike": 9.72,
         "rain": 0,
         "wind": 2.35,
         "windDir": "E",
@@ -13749,8 +13884,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 10.44,
-        "feelsLike": 8.65,
+        "temp": 10.87,
+        "feelsLike": 9.29,
         "rain": 0,
         "wind": 2.33,
         "windDir": "SE",
@@ -13758,8 +13893,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 9.96,
-        "feelsLike": 8.17,
+        "temp": 10.41,
+        "feelsLike": 8.85,
         "rain": 0,
         "wind": 2.3,
         "windDir": "SE",
@@ -13767,44 +13902,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 9.48,
-        "feelsLike": 7.69,
+        "temp": 10,
+        "feelsLike": 8.42,
         "rain": 0,
         "wind": 2.28,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 9.14,
-        "feelsLike": 7.34,
+        "temp": 9.65,
+        "feelsLike": 8.06,
         "rain": 0,
         "wind": 2.26,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 8.79,
-        "feelsLike": 6.98,
+        "temp": 9.3,
+        "feelsLike": 7.69,
         "rain": 0,
         "wind": 2.24,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 8.45,
-        "feelsLike": 6.63,
+        "temp": 8.95,
+        "feelsLike": 7.32,
         "rain": 0,
         "wind": 2.22,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 8.11,
-        "feelsLike": 6.27,
+        "temp": 8.6,
+        "feelsLike": 6.95,
         "rain": 0,
         "wind": 2.2,
         "windDir": "SE",
@@ -13812,8 +13947,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 7.87,
-        "feelsLike": 6.02,
+        "temp": 8.35,
+        "feelsLike": 6.69,
         "rain": 0,
         "wind": 2.21,
         "windDir": "SE",
@@ -13821,8 +13956,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 7.63,
-        "feelsLike": 5.77,
+        "temp": 8.1,
+        "feelsLike": 6.42,
         "rain": 0,
         "wind": 2.23,
         "windDir": "S",
@@ -13830,8 +13965,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 7.39,
-        "feelsLike": 5.51,
+        "temp": 7.86,
+        "feelsLike": 6.15,
         "rain": 0,
         "wind": 2.24,
         "windDir": "S",
@@ -13839,8 +13974,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 7.16,
-        "feelsLike": 5.26,
+        "temp": 7.61,
+        "feelsLike": 5.89,
         "rain": 0,
         "wind": 2.25,
         "windDir": "S",
@@ -13848,8 +13983,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 7.02,
-        "feelsLike": 5.11,
+        "temp": 7.47,
+        "feelsLike": 5.72,
         "rain": 0,
         "wind": 2.28,
         "windDir": "S",
@@ -13857,8 +13992,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 6.88,
-        "feelsLike": 4.96,
+        "temp": 7.32,
+        "feelsLike": 5.56,
         "rain": 0,
         "wind": 2.3,
         "windDir": "S",
@@ -13866,8 +14001,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 6.74,
-        "feelsLike": 4.81,
+        "temp": 7.18,
+        "feelsLike": 5.4,
         "rain": 0,
         "wind": 2.32,
         "windDir": "S",
@@ -13875,8 +14010,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 6.61,
-        "feelsLike": 4.65,
+        "temp": 7.03,
+        "feelsLike": 5.23,
         "rain": 0,
         "wind": 2.34,
         "windDir": "S",
@@ -13884,8 +14019,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 6.44,
-        "feelsLike": 4.43,
+        "temp": 6.85,
+        "feelsLike": 5,
         "rain": 0,
         "wind": 2.38,
         "windDir": "S",
@@ -13893,8 +14028,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 6.27,
-        "feelsLike": 4.21,
+        "temp": 6.67,
+        "feelsLike": 4.76,
         "rain": 0,
         "wind": 2.41,
         "windDir": "S",
@@ -13902,8 +14037,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 6.1,
-        "feelsLike": 3.99,
+        "temp": 6.5,
+        "feelsLike": 4.53,
         "rain": 0,
         "wind": 2.44,
         "windDir": "S",
@@ -13911,8 +14046,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 5.93,
-        "feelsLike": 3.77,
+        "temp": 6.32,
+        "feelsLike": 4.3,
         "rain": 0,
         "wind": 2.48,
         "windDir": "S",
@@ -13920,8 +14055,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 5.75,
-        "feelsLike": 3.54,
+        "temp": 6.13,
+        "feelsLike": 4.05,
         "rain": 0,
         "wind": 2.51,
         "windDir": "S",
@@ -13929,8 +14064,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 5.56,
-        "feelsLike": 3.3,
+        "temp": 5.94,
+        "feelsLike": 3.8,
         "rain": 0,
         "wind": 2.54,
         "windDir": "S",
@@ -13938,8 +14073,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 5.38,
-        "feelsLike": 3.07,
+        "temp": 5.75,
+        "feelsLike": 3.56,
         "rain": 0,
         "wind": 2.57,
         "windDir": "S",
@@ -13947,8 +14082,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.2,
-        "feelsLike": 2.84,
+        "temp": 5.56,
+        "feelsLike": 3.31,
         "rain": 0,
         "wind": 2.61,
         "windDir": "S",
@@ -13956,8 +14091,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 5.02,
-        "feelsLike": 2.63,
+        "temp": 5.37,
+        "feelsLike": 3.1,
         "rain": 0,
         "wind": 2.62,
         "windDir": "S",
@@ -13965,8 +14100,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 4.83,
-        "feelsLike": 2.43,
+        "temp": 5.18,
+        "feelsLike": 2.88,
         "rain": 0,
         "wind": 2.63,
         "windDir": "S",
@@ -13974,8 +14109,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 4.65,
-        "feelsLike": 2.23,
+        "temp": 4.98,
+        "feelsLike": 2.66,
         "rain": 0,
         "wind": 2.65,
         "windDir": "S",
@@ -13983,8 +14118,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.46,
-        "feelsLike": 2.02,
+        "temp": 4.79,
+        "feelsLike": 2.45,
         "rain": 0,
         "wind": 2.66,
         "windDir": "S",
@@ -13992,8 +14127,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 4.33,
-        "feelsLike": 1.87,
+        "temp": 4.65,
+        "feelsLike": 2.29,
         "rain": 0,
         "wind": 2.68,
         "windDir": "S",
@@ -14001,8 +14136,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 4.2,
-        "feelsLike": 1.72,
+        "temp": 4.51,
+        "feelsLike": 2.12,
         "rain": 0,
         "wind": 2.7,
         "windDir": "S",
@@ -14010,8 +14145,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 4.07,
-        "feelsLike": 1.57,
+        "temp": 4.38,
+        "feelsLike": 1.96,
         "rain": 0,
         "wind": 2.71,
         "windDir": "S",
@@ -14019,8 +14154,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.94,
-        "feelsLike": 1.42,
+        "temp": 4.24,
+        "feelsLike": 1.79,
         "rain": 0,
         "wind": 2.73,
         "windDir": "S",
@@ -14028,8 +14163,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 3.86,
-        "feelsLike": 1.33,
+        "temp": 4.15,
+        "feelsLike": 1.7,
         "rain": 0,
         "wind": 2.74,
         "windDir": "S",
@@ -14037,8 +14172,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 3.79,
-        "feelsLike": 1.25,
+        "temp": 4.07,
+        "feelsLike": 1.6,
         "rain": 0,
         "wind": 2.75,
         "windDir": "S",
@@ -14046,8 +14181,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 3.71,
-        "feelsLike": 1.16,
+        "temp": 3.98,
+        "feelsLike": 1.5,
         "rain": 0,
         "wind": 2.75,
         "windDir": "S",
@@ -14055,8 +14190,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 3.63,
-        "feelsLike": 1.08,
+        "temp": 3.9,
+        "feelsLike": 1.41,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -14064,8 +14199,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 3.58,
-        "feelsLike": 1.02,
+        "temp": 3.84,
+        "feelsLike": 1.34,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -14073,8 +14208,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 3.53,
-        "feelsLike": 0.96,
+        "temp": 3.78,
+        "feelsLike": 1.27,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -14082,8 +14217,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 3.48,
-        "feelsLike": 0.91,
+        "temp": 3.72,
+        "feelsLike": 1.2,
         "rain": 0,
         "wind": 2.77,
         "windDir": "SW",
@@ -14091,8 +14226,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 3.42,
-        "feelsLike": 0.85,
+        "temp": 3.66,
+        "feelsLike": 1.13,
         "rain": 0,
         "wind": 2.77,
         "windDir": "SW",
@@ -14100,8 +14235,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 3.37,
-        "feelsLike": 0.77,
+        "temp": 3.59,
+        "feelsLike": 1.05,
         "rain": 0,
         "wind": 2.77,
         "windDir": "SW",
@@ -14109,8 +14244,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 3.31,
-        "feelsLike": 0.7,
+        "temp": 3.53,
+        "feelsLike": 0.96,
         "rain": 0,
         "wind": 2.78,
         "windDir": "SW",
@@ -14118,8 +14253,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 3.26,
-        "feelsLike": 0.63,
+        "temp": 3.47,
+        "feelsLike": 0.88,
         "rain": 0,
         "wind": 2.78,
         "windDir": "SW",
@@ -14127,8 +14262,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 3.2,
-        "feelsLike": 0.55,
+        "temp": 3.4,
+        "feelsLike": 0.79,
         "rain": 0,
         "wind": 2.79,
         "windDir": "SW",
@@ -14136,8 +14271,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 3.07,
-        "feelsLike": 0.4,
+        "temp": 3.26,
+        "feelsLike": 0.62,
         "rain": 0,
         "wind": 2.79,
         "windDir": "SW",
@@ -14145,8 +14280,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 2.94,
-        "feelsLike": 0.24,
+        "temp": 3.12,
+        "feelsLike": 0.46,
         "rain": 0,
         "wind": 2.8,
         "windDir": "SW",
@@ -14154,8 +14289,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 2.8,
-        "feelsLike": 0.08,
+        "temp": 2.98,
+        "feelsLike": 0.29,
         "rain": 0,
         "wind": 2.81,
         "windDir": "SW",
@@ -14163,8 +14298,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 2.67,
-        "feelsLike": -0.07,
+        "temp": 2.84,
+        "feelsLike": 0.12,
         "rain": 0,
         "wind": 2.82,
         "windDir": "SW",
@@ -14172,8 +14307,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 2.63,
-        "feelsLike": -0.14,
+        "temp": 2.79,
+        "feelsLike": 0.05,
         "rain": 0,
         "wind": 2.82,
         "windDir": "SW",
@@ -14181,8 +14316,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 2.59,
-        "feelsLike": -0.2,
+        "temp": 2.74,
+        "feelsLike": -0.03,
         "rain": 0,
         "wind": 2.83,
         "windDir": "SW",
@@ -14190,21 +14325,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 2.55,
-        "feelsLike": -0.27,
+        "temp": 2.69,
+        "feelsLike": -0.1,
         "rain": 0,
         "wind": 2.83,
         "windDir": "SW",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 4.45,
-        "feelsLike": 1.62,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 2.64,
+        "feelsLike": -0.18,
         "rain": 0,
-        "wind": 2.64,
+        "wind": 2.83,
         "windDir": "SW",
-        "icon": "13_day"
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 2.93,
+        "feelsLike": 0.14,
+        "rain": 0,
+        "wind": 2.83,
+        "windDir": "SW",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 3.22,
+        "feelsLike": 0.45,
+        "rain": 0,
+        "wind": 2.82,
+        "windDir": "SW",
+        "icon": "16_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 3.51,
+        "feelsLike": 0.77,
+        "rain": 0,
+        "wind": 2.81,
+        "windDir": "SW",
+        "icon": "16_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -14280,8 +14442,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 11.4,
-        "feelsLike": 9.6,
+        "temp": 11.95,
+        "feelsLike": 10.25,
         "rain": 0,
         "wind": 2.37,
         "windDir": "E",
@@ -14289,17 +14451,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 9.48,
-        "feelsLike": 7.69,
+        "temp": 10,
+        "feelsLike": 8.42,
         "rain": 0,
         "wind": 2.28,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "13_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 8.11,
-        "feelsLike": 6.27,
+        "temp": 8.6,
+        "feelsLike": 6.95,
         "rain": 0,
         "wind": 2.2,
         "windDir": "SE",
@@ -14307,8 +14469,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 7.16,
-        "feelsLike": 5.26,
+        "temp": 7.61,
+        "feelsLike": 5.89,
         "rain": 0,
         "wind": 2.25,
         "windDir": "S",
@@ -14316,8 +14478,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 6.61,
-        "feelsLike": 4.65,
+        "temp": 7.03,
+        "feelsLike": 5.23,
         "rain": 0,
         "wind": 2.34,
         "windDir": "S",
@@ -14325,8 +14487,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 5.93,
-        "feelsLike": 3.77,
+        "temp": 6.32,
+        "feelsLike": 4.3,
         "rain": 0,
         "wind": 2.48,
         "windDir": "S",
@@ -14334,8 +14496,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 5.2,
-        "feelsLike": 2.84,
+        "temp": 5.56,
+        "feelsLike": 3.31,
         "rain": 0,
         "wind": 2.61,
         "windDir": "S",
@@ -14343,8 +14505,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 4.46,
-        "feelsLike": 2.02,
+        "temp": 4.79,
+        "feelsLike": 2.45,
         "rain": 0,
         "wind": 2.66,
         "windDir": "S",
@@ -14352,8 +14514,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 3.94,
-        "feelsLike": 1.42,
+        "temp": 4.24,
+        "feelsLike": 1.79,
         "rain": 0,
         "wind": 2.73,
         "windDir": "S",
@@ -14361,8 +14523,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 3.63,
-        "feelsLike": 1.08,
+        "temp": 3.9,
+        "feelsLike": 1.41,
         "rain": 0,
         "wind": 2.76,
         "windDir": "SW",
@@ -14370,8 +14532,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 3.42,
-        "feelsLike": 0.85,
+        "temp": 3.66,
+        "feelsLike": 1.13,
         "rain": 0,
         "wind": 2.77,
         "windDir": "SW",
@@ -14379,8 +14541,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 3.2,
-        "feelsLike": 0.55,
+        "temp": 3.4,
+        "feelsLike": 0.79,
         "rain": 0,
         "wind": 2.79,
         "windDir": "SW",
@@ -14388,8 +14550,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 2.67,
-        "feelsLike": -0.07,
+        "temp": 2.84,
+        "feelsLike": 0.12,
         "rain": 0,
         "wind": 2.82,
         "windDir": "SW",
@@ -14397,8 +14559,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 2.51,
-        "feelsLike": -0.33,
+        "temp": 2.64,
+        "feelsLike": -0.18,
         "rain": 0,
         "wind": 2.83,
         "windDir": "SW",
@@ -14406,8 +14568,8 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 3.69,
-        "feelsLike": 0.98,
+        "temp": 3.8,
+        "feelsLike": 1.09,
         "rain": 0,
         "wind": 2.81,
         "windDir": "SW",
@@ -14415,8 +14577,8 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 6.06,
-        "feelsLike": 3.82,
+        "temp": 6.03,
+        "feelsLike": 3.79,
         "rain": 0,
         "wind": 2.6,
         "windDir": "SW",
@@ -14932,7 +15094,7 @@
         "feelsLike": 12.36,
         "rain": 0,
         "wind": 3,
-        "windDir": "N",
+        "windDir": "NE",
         "icon": "4_day"
       },
       {
@@ -15103,7 +15265,7 @@
         "feelsLike": 17.24,
         "rain": 0.24,
         "wind": 8.54,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -15112,7 +15274,7 @@
         "feelsLike": 16.56,
         "rain": 0.05,
         "wind": 8.77,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "31_day"
       },
       {
@@ -15121,7 +15283,7 @@
         "feelsLike": 15.53,
         "rain": 0,
         "wind": 8.23,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "8_day"
       },
       {
@@ -15211,7 +15373,7 @@
         "feelsLike": 4.56,
         "rain": 0,
         "wind": 6.92,
-        "windDir": "W",
+        "windDir": "NW",
         "icon": "4_night"
       },
       {
@@ -15247,7 +15409,7 @@
         "feelsLike": 4.31,
         "rain": 0,
         "wind": 7.88,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -15256,7 +15418,7 @@
         "feelsLike": 4.19,
         "rain": 0,
         "wind": 7.96,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_night"
       },
       {
@@ -15265,7 +15427,7 @@
         "feelsLike": 4.32,
         "rain": 0,
         "wind": 8.11,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_day"
       },
       {
@@ -15274,7 +15436,7 @@
         "feelsLike": 5.37,
         "rain": 0,
         "wind": 8.23,
-        "windDir": "NW",
+        "windDir": "W",
         "icon": "1_day"
       },
       {
@@ -15454,7 +15616,7 @@
         "feelsLike": 2.62,
         "rain": 0,
         "wind": 6.96,
-        "windDir": "W",
+        "windDir": "SW",
         "icon": "1_night"
       },
       {
@@ -15463,7 +15625,7 @@
         "feelsLike": 2.9,
         "rain": 0,
         "wind": 6.6,
-        "windDir": "W",
+        "windDir": "SW",
         "icon": "1_night"
       },
       {
@@ -15472,7 +15634,7 @@
         "feelsLike": 2.95,
         "rain": 0,
         "wind": 6.2,
-        "windDir": "W",
+        "windDir": "SW",
         "icon": "1_night"
       },
       {
@@ -15481,7 +15643,7 @@
         "feelsLike": 3.08,
         "rain": 0,
         "wind": 5.87,
-        "windDir": "W",
+        "windDir": "SW",
         "icon": "1_day"
       },
       {
@@ -15662,7 +15824,7 @@
       {
         "date": "2025-06-20T14:00:00.000Z",
         "dayLabel": "Sat",
-        "tempMin": 2.51,
+        "tempMin": 2.64,
         "tempMax": 12.19,
         "rain": 0,
         "convRain": 0,
@@ -16345,8 +16507,8 @@
       },
       {
         "hour": "1899-12-30T06:45:00.000Z",
-        "temp": 16.15,
-        "feelsLike": 13.53,
+        "temp": 16.16,
+        "feelsLike": 13.54,
         "rain": 0,
         "wind": 6.38,
         "windDir": "SE",
@@ -16354,8 +16516,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 15.9,
-        "feelsLike": 13.26,
+        "temp": 15.96,
+        "feelsLike": 13.32,
         "rain": 0,
         "wind": 6.32,
         "windDir": "SE",
@@ -16363,8 +16525,8 @@
       },
       {
         "hour": "1899-12-30T07:15:00.000Z",
-        "temp": 15.74,
-        "feelsLike": 13.12,
+        "temp": 15.83,
+        "feelsLike": 13.21,
         "rain": 0,
         "wind": 6.19,
         "windDir": "SE",
@@ -16372,8 +16534,8 @@
       },
       {
         "hour": "1899-12-30T07:30:00.000Z",
-        "temp": 15.59,
-        "feelsLike": 12.99,
+        "temp": 15.73,
+        "feelsLike": 13.13,
         "rain": 0,
         "wind": 6.06,
         "windDir": "SE",
@@ -16381,8 +16543,8 @@
       },
       {
         "hour": "1899-12-30T07:45:00.000Z",
-        "temp": 15.43,
-        "feelsLike": 12.86,
+        "temp": 15.59,
+        "feelsLike": 13.01,
         "rain": 0,
         "wind": 5.94,
         "windDir": "SE",
@@ -16390,44 +16552,44 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 15.28,
-        "feelsLike": 12.72,
+        "temp": 15.4,
+        "feelsLike": 12.85,
         "rain": 0,
         "wind": 5.81,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:15:00.000Z",
-        "temp": 15.17,
-        "feelsLike": 12.65,
+        "temp": 15.3,
+        "feelsLike": 12.77,
         "rain": 0,
         "wind": 5.71,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:30:00.000Z",
-        "temp": 15.07,
-        "feelsLike": 12.57,
+        "temp": 15.19,
+        "feelsLike": 12.69,
         "rain": 0,
         "wind": 5.61,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T08:45:00.000Z",
-        "temp": 14.97,
-        "feelsLike": 12.49,
+        "temp": 15.09,
+        "feelsLike": 12.61,
         "rain": 0,
         "wind": 5.51,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 14.86,
-        "feelsLike": 12.42,
+        "temp": 14.98,
+        "feelsLike": 12.54,
         "rain": 0,
         "wind": 5.4,
         "windDir": "SE",
@@ -16435,8 +16597,8 @@
       },
       {
         "hour": "1899-12-30T09:15:00.000Z",
-        "temp": 14.77,
-        "feelsLike": 12.3,
+        "temp": 14.88,
+        "feelsLike": 12.42,
         "rain": 0,
         "wind": 5.44,
         "windDir": "SE",
@@ -16444,8 +16606,8 @@
       },
       {
         "hour": "1899-12-30T09:30:00.000Z",
-        "temp": 14.67,
-        "feelsLike": 12.18,
+        "temp": 14.78,
+        "feelsLike": 12.3,
         "rain": 0,
         "wind": 5.47,
         "windDir": "S",
@@ -16453,8 +16615,8 @@
       },
       {
         "hour": "1899-12-30T09:45:00.000Z",
-        "temp": 14.57,
-        "feelsLike": 12.06,
+        "temp": 14.68,
+        "feelsLike": 12.18,
         "rain": 0,
         "wind": 5.5,
         "windDir": "S",
@@ -16462,8 +16624,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 14.47,
-        "feelsLike": 11.94,
+        "temp": 14.58,
+        "feelsLike": 12.06,
         "rain": 0,
         "wind": 5.54,
         "windDir": "S",
@@ -16471,8 +16633,8 @@
       },
       {
         "hour": "1899-12-30T10:15:00.000Z",
-        "temp": 14.34,
-        "feelsLike": 11.77,
+        "temp": 14.45,
+        "feelsLike": 11.89,
         "rain": 0,
         "wind": 5.61,
         "windDir": "SW",
@@ -16480,8 +16642,8 @@
       },
       {
         "hour": "1899-12-30T10:30:00.000Z",
-        "temp": 14.21,
-        "feelsLike": 11.61,
+        "temp": 14.32,
+        "feelsLike": 11.72,
         "rain": 0,
         "wind": 5.69,
         "windDir": "SW",
@@ -16489,8 +16651,8 @@
       },
       {
         "hour": "1899-12-30T10:45:00.000Z",
-        "temp": 14.08,
-        "feelsLike": 11.44,
+        "temp": 14.19,
+        "feelsLike": 11.55,
         "rain": 0,
         "wind": 5.76,
         "windDir": "SW",
@@ -16498,8 +16660,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 13.94,
-        "feelsLike": 11.27,
+        "temp": 14.06,
+        "feelsLike": 11.38,
         "rain": 0,
         "wind": 5.83,
         "windDir": "W",
@@ -16507,8 +16669,8 @@
       },
       {
         "hour": "1899-12-30T11:15:00.000Z",
-        "temp": 13.76,
-        "feelsLike": 11.03,
+        "temp": 13.87,
+        "feelsLike": 11.14,
         "rain": 0,
         "wind": 5.94,
         "windDir": "W",
@@ -16516,8 +16678,8 @@
       },
       {
         "hour": "1899-12-30T11:30:00.000Z",
-        "temp": 13.57,
-        "feelsLike": 10.78,
+        "temp": 13.68,
+        "feelsLike": 10.89,
         "rain": 0,
         "wind": 6.05,
         "windDir": "W",
@@ -16525,8 +16687,8 @@
       },
       {
         "hour": "1899-12-30T11:45:00.000Z",
-        "temp": 13.38,
-        "feelsLike": 10.54,
+        "temp": 13.49,
+        "feelsLike": 10.65,
         "rain": 0,
         "wind": 6.16,
         "windDir": "W",
@@ -16534,8 +16696,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 13.2,
-        "feelsLike": 10.3,
+        "temp": 13.3,
+        "feelsLike": 10.4,
         "rain": 0,
         "wind": 6.27,
         "windDir": "W",
@@ -16543,8 +16705,8 @@
       },
       {
         "hour": "1899-12-30T12:15:00.000Z",
-        "temp": 12.98,
-        "feelsLike": 10.03,
+        "temp": 13.09,
+        "feelsLike": 10.13,
         "rain": 0,
         "wind": 6.36,
         "windDir": "W",
@@ -16552,8 +16714,8 @@
       },
       {
         "hour": "1899-12-30T12:30:00.000Z",
-        "temp": 12.77,
-        "feelsLike": 9.76,
+        "temp": 12.87,
+        "feelsLike": 9.87,
         "rain": 0,
         "wind": 6.46,
         "windDir": "W",
@@ -16561,8 +16723,8 @@
       },
       {
         "hour": "1899-12-30T12:45:00.000Z",
-        "temp": 12.55,
-        "feelsLike": 9.5,
+        "temp": 12.66,
+        "feelsLike": 9.6,
         "rain": 0,
         "wind": 6.55,
         "windDir": "W",
@@ -16570,8 +16732,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 12.34,
-        "feelsLike": 9.23,
+        "temp": 12.44,
+        "feelsLike": 9.33,
         "rain": 0,
         "wind": 6.64,
         "windDir": "W",
@@ -16579,8 +16741,8 @@
       },
       {
         "hour": "1899-12-30T13:15:00.000Z",
-        "temp": 12.15,
-        "feelsLike": 8.99,
+        "temp": 12.25,
+        "feelsLike": 9.09,
         "rain": 0,
         "wind": 6.73,
         "windDir": "W",
@@ -16588,8 +16750,8 @@
       },
       {
         "hour": "1899-12-30T13:30:00.000Z",
-        "temp": 11.96,
-        "feelsLike": 8.74,
+        "temp": 12.06,
+        "feelsLike": 8.84,
         "rain": 0,
         "wind": 6.81,
         "windDir": "W",
@@ -16597,8 +16759,8 @@
       },
       {
         "hour": "1899-12-30T13:45:00.000Z",
-        "temp": 11.77,
-        "feelsLike": 8.5,
+        "temp": 11.87,
+        "feelsLike": 8.59,
         "rain": 0,
         "wind": 6.9,
         "windDir": "W",
@@ -16606,8 +16768,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 11.58,
-        "feelsLike": 8.25,
+        "temp": 11.68,
+        "feelsLike": 8.35,
         "rain": 0,
         "wind": 6.98,
         "windDir": "W",
@@ -16615,8 +16777,8 @@
       },
       {
         "hour": "1899-12-29T14:15:00.000Z",
-        "temp": 11.45,
-        "feelsLike": 8.07,
+        "temp": 11.55,
+        "feelsLike": 8.16,
         "rain": 0,
         "wind": 7.03,
         "windDir": "W",
@@ -16624,8 +16786,8 @@
       },
       {
         "hour": "1899-12-29T14:30:00.000Z",
-        "temp": 11.32,
-        "feelsLike": 7.89,
+        "temp": 11.41,
+        "feelsLike": 7.98,
         "rain": 0,
         "wind": 7.08,
         "windDir": "W",
@@ -16633,8 +16795,8 @@
       },
       {
         "hour": "1899-12-29T14:45:00.000Z",
-        "temp": 11.19,
-        "feelsLike": 7.71,
+        "temp": 11.28,
+        "feelsLike": 7.8,
         "rain": 0,
         "wind": 7.13,
         "windDir": "W",
@@ -16642,8 +16804,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 11.05,
-        "feelsLike": 7.53,
+        "temp": 11.15,
+        "feelsLike": 7.62,
         "rain": 0,
         "wind": 7.18,
         "windDir": "W",
@@ -16651,8 +16813,8 @@
       },
       {
         "hour": "1899-12-29T15:15:00.000Z",
-        "temp": 10.96,
-        "feelsLike": 7.4,
+        "temp": 11.05,
+        "feelsLike": 7.49,
         "rain": 0,
         "wind": 7.2,
         "windDir": "W",
@@ -16660,8 +16822,8 @@
       },
       {
         "hour": "1899-12-29T15:30:00.000Z",
-        "temp": 10.86,
-        "feelsLike": 7.28,
+        "temp": 10.95,
+        "feelsLike": 7.37,
         "rain": 0,
         "wind": 7.23,
         "windDir": "W",
@@ -16669,8 +16831,8 @@
       },
       {
         "hour": "1899-12-29T15:45:00.000Z",
-        "temp": 10.76,
-        "feelsLike": 7.16,
+        "temp": 10.85,
+        "feelsLike": 7.25,
         "rain": 0,
         "wind": 7.26,
         "windDir": "W",
@@ -16678,8 +16840,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 10.66,
-        "feelsLike": 7.04,
+        "temp": 10.75,
+        "feelsLike": 7.12,
         "rain": 0,
         "wind": 7.28,
         "windDir": "W",
@@ -16687,8 +16849,8 @@
       },
       {
         "hour": "1899-12-29T16:15:00.000Z",
-        "temp": 10.59,
-        "feelsLike": 6.94,
+        "temp": 10.68,
+        "feelsLike": 7.02,
         "rain": 0,
         "wind": 7.29,
         "windDir": "W",
@@ -16696,8 +16858,8 @@
       },
       {
         "hour": "1899-12-29T16:30:00.000Z",
-        "temp": 10.52,
-        "feelsLike": 6.84,
+        "temp": 10.6,
+        "feelsLike": 6.93,
         "rain": 0,
         "wind": 7.3,
         "windDir": "W",
@@ -16705,8 +16867,8 @@
       },
       {
         "hour": "1899-12-29T16:45:00.000Z",
-        "temp": 10.44,
-        "feelsLike": 6.74,
+        "temp": 10.53,
+        "feelsLike": 6.83,
         "rain": 0,
         "wind": 7.31,
         "windDir": "W",
@@ -16714,8 +16876,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 10.37,
-        "feelsLike": 6.64,
+        "temp": 10.45,
+        "feelsLike": 6.73,
         "rain": 0,
         "wind": 7.32,
         "windDir": "W",
@@ -16723,8 +16885,8 @@
       },
       {
         "hour": "1899-12-29T17:15:00.000Z",
-        "temp": 10.27,
-        "feelsLike": 6.52,
+        "temp": 10.35,
+        "feelsLike": 6.6,
         "rain": 0,
         "wind": 7.33,
         "windDir": "W",
@@ -16732,8 +16894,8 @@
       },
       {
         "hour": "1899-12-29T17:30:00.000Z",
-        "temp": 10.17,
-        "feelsLike": 6.39,
+        "temp": 10.25,
+        "feelsLike": 6.47,
         "rain": 0,
         "wind": 7.34,
         "windDir": "W",
@@ -16741,8 +16903,8 @@
       },
       {
         "hour": "1899-12-29T17:45:00.000Z",
-        "temp": 10.08,
-        "feelsLike": 6.27,
+        "temp": 10.16,
+        "feelsLike": 6.35,
         "rain": 0,
         "wind": 7.36,
         "windDir": "W",
@@ -16750,8 +16912,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 9.98,
-        "feelsLike": 6.14,
+        "temp": 10.06,
+        "feelsLike": 6.22,
         "rain": 0,
         "wind": 7.37,
         "windDir": "W",
@@ -16759,8 +16921,8 @@
       },
       {
         "hour": "1899-12-29T18:15:00.000Z",
-        "temp": 9.89,
-        "feelsLike": 6.04,
+        "temp": 9.96,
+        "feelsLike": 6.11,
         "rain": 0,
         "wind": 7.39,
         "windDir": "W",
@@ -16768,8 +16930,8 @@
       },
       {
         "hour": "1899-12-29T18:30:00.000Z",
-        "temp": 9.79,
-        "feelsLike": 5.93,
+        "temp": 9.87,
+        "feelsLike": 6.01,
         "rain": 0,
         "wind": 7.41,
         "windDir": "W",
@@ -16777,8 +16939,8 @@
       },
       {
         "hour": "1899-12-29T18:45:00.000Z",
-        "temp": 9.7,
-        "feelsLike": 5.82,
+        "temp": 9.77,
+        "feelsLike": 5.9,
         "rain": 0,
         "wind": 7.43,
         "windDir": "W",
@@ -16786,8 +16948,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 9.61,
-        "feelsLike": 5.72,
+        "temp": 9.68,
+        "feelsLike": 5.79,
         "rain": 0,
         "wind": 7.44,
         "windDir": "W",
@@ -16795,8 +16957,8 @@
       },
       {
         "hour": "1899-12-29T19:15:00.000Z",
-        "temp": 9.53,
-        "feelsLike": 5.62,
+        "temp": 9.6,
+        "feelsLike": 5.69,
         "rain": 0,
         "wind": 7.47,
         "windDir": "W",
@@ -16804,8 +16966,8 @@
       },
       {
         "hour": "1899-12-29T19:30:00.000Z",
-        "temp": 9.46,
-        "feelsLike": 5.52,
+        "temp": 9.53,
+        "feelsLike": 5.59,
         "rain": 0,
         "wind": 7.49,
         "windDir": "W",
@@ -16813,21 +16975,48 @@
       },
       {
         "hour": "1899-12-29T19:45:00.000Z",
-        "temp": 9.38,
-        "feelsLike": 5.42,
+        "temp": 9.45,
+        "feelsLike": 5.49,
         "rain": 0,
         "wind": 7.51,
         "windDir": "W",
         "icon": "16_night"
       },
       {
-        "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 9.34,
-        "feelsLike": 5.26,
+        "hour": "1899-12-29T20:00:00.000Z",
+        "temp": 9.37,
+        "feelsLike": 5.4,
         "rain": 0,
-        "wind": 7.67,
+        "wind": 7.54,
         "windDir": "W",
-        "icon": "4_day"
+        "icon": "7_day"
+      },
+      {
+        "hour": "1899-12-29T20:15:00.000Z",
+        "temp": 9.37,
+        "feelsLike": 5.4,
+        "rain": 0,
+        "wind": 7.55,
+        "windDir": "W",
+        "icon": "7_day"
+      },
+      {
+        "hour": "1899-12-29T20:30:00.000Z",
+        "temp": 9.37,
+        "feelsLike": 5.4,
+        "rain": 0,
+        "wind": 7.57,
+        "windDir": "W",
+        "icon": "7_day"
+      },
+      {
+        "hour": "1899-12-29T20:45:00.000Z",
+        "temp": 9.37,
+        "feelsLike": 5.4,
+        "rain": 0,
+        "wind": 7.59,
+        "windDir": "W",
+        "icon": "7_day"
       },
       {
         "hour": "1899-12-29T23:00:00.000Z",
@@ -16903,8 +17092,8 @@
       },
       {
         "hour": "1899-12-30T07:00:00.000Z",
-        "temp": 15.9,
-        "feelsLike": 13.26,
+        "temp": 15.96,
+        "feelsLike": 13.32,
         "rain": 0,
         "wind": 6.32,
         "windDir": "SE",
@@ -16912,17 +17101,17 @@
       },
       {
         "hour": "1899-12-30T08:00:00.000Z",
-        "temp": 15.28,
-        "feelsLike": 12.72,
+        "temp": 15.4,
+        "feelsLike": 12.85,
         "rain": 0,
         "wind": 5.81,
         "windDir": "SE",
-        "icon": "4_night"
+        "icon": "7_night"
       },
       {
         "hour": "1899-12-30T09:00:00.000Z",
-        "temp": 14.86,
-        "feelsLike": 12.42,
+        "temp": 14.98,
+        "feelsLike": 12.54,
         "rain": 0,
         "wind": 5.4,
         "windDir": "SE",
@@ -16930,8 +17119,8 @@
       },
       {
         "hour": "1899-12-30T10:00:00.000Z",
-        "temp": 14.47,
-        "feelsLike": 11.94,
+        "temp": 14.58,
+        "feelsLike": 12.06,
         "rain": 0,
         "wind": 5.54,
         "windDir": "S",
@@ -16939,8 +17128,8 @@
       },
       {
         "hour": "1899-12-30T11:00:00.000Z",
-        "temp": 13.94,
-        "feelsLike": 11.27,
+        "temp": 14.06,
+        "feelsLike": 11.38,
         "rain": 0,
         "wind": 5.83,
         "windDir": "W",
@@ -16948,8 +17137,8 @@
       },
       {
         "hour": "1899-12-30T12:00:00.000Z",
-        "temp": 13.2,
-        "feelsLike": 10.3,
+        "temp": 13.3,
+        "feelsLike": 10.4,
         "rain": 0,
         "wind": 6.27,
         "windDir": "W",
@@ -16957,8 +17146,8 @@
       },
       {
         "hour": "1899-12-30T13:00:00.000Z",
-        "temp": 12.34,
-        "feelsLike": 9.23,
+        "temp": 12.44,
+        "feelsLike": 9.33,
         "rain": 0,
         "wind": 6.64,
         "windDir": "W",
@@ -16966,8 +17155,8 @@
       },
       {
         "hour": "1899-12-29T14:00:00.000Z",
-        "temp": 11.58,
-        "feelsLike": 8.25,
+        "temp": 11.68,
+        "feelsLike": 8.35,
         "rain": 0,
         "wind": 6.98,
         "windDir": "W",
@@ -16975,8 +17164,8 @@
       },
       {
         "hour": "1899-12-29T15:00:00.000Z",
-        "temp": 11.05,
-        "feelsLike": 7.53,
+        "temp": 11.15,
+        "feelsLike": 7.62,
         "rain": 0,
         "wind": 7.18,
         "windDir": "W",
@@ -16984,8 +17173,8 @@
       },
       {
         "hour": "1899-12-29T16:00:00.000Z",
-        "temp": 10.66,
-        "feelsLike": 7.04,
+        "temp": 10.75,
+        "feelsLike": 7.12,
         "rain": 0,
         "wind": 7.28,
         "windDir": "W",
@@ -16993,8 +17182,8 @@
       },
       {
         "hour": "1899-12-29T17:00:00.000Z",
-        "temp": 10.37,
-        "feelsLike": 6.64,
+        "temp": 10.45,
+        "feelsLike": 6.73,
         "rain": 0,
         "wind": 7.32,
         "windDir": "W",
@@ -17002,8 +17191,8 @@
       },
       {
         "hour": "1899-12-29T18:00:00.000Z",
-        "temp": 9.98,
-        "feelsLike": 6.14,
+        "temp": 10.06,
+        "feelsLike": 6.22,
         "rain": 0,
         "wind": 7.37,
         "windDir": "W",
@@ -17011,8 +17200,8 @@
       },
       {
         "hour": "1899-12-29T19:00:00.000Z",
-        "temp": 9.61,
-        "feelsLike": 5.72,
+        "temp": 9.68,
+        "feelsLike": 5.79,
         "rain": 0,
         "wind": 7.44,
         "windDir": "W",
@@ -17020,8 +17209,8 @@
       },
       {
         "hour": "1899-12-29T20:00:00.000Z",
-        "temp": 9.3,
-        "feelsLike": 5.33,
+        "temp": 9.37,
+        "feelsLike": 5.4,
         "rain": 0,
         "wind": 7.54,
         "windDir": "W",
@@ -17029,8 +17218,8 @@
       },
       {
         "hour": "1899-12-29T21:00:00.000Z",
-        "temp": 9.3,
-        "feelsLike": 5.34,
+        "temp": 9.37,
+        "feelsLike": 5.4,
         "rain": 0,
         "wind": 7.6,
         "windDir": "W",
@@ -17038,8 +17227,8 @@
       },
       {
         "hour": "1899-12-29T22:00:00.000Z",
-        "temp": 9.76,
-        "feelsLike": 6.08,
+        "temp": 9.74,
+        "feelsLike": 6.07,
         "rain": 0,
         "wind": 7.56,
         "windDir": "W",
@@ -17528,7 +17717,7 @@
         "feelsLike": 17.87,
         "rain": 0,
         "wind": 10.01,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "1_day"
       },
       {
@@ -17726,7 +17915,7 @@
         "feelsLike": 14.73,
         "rain": 0,
         "wind": 19.01,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "4_day"
       },
       {
@@ -17735,7 +17924,7 @@
         "feelsLike": 15.02,
         "rain": 0,
         "wind": 18.76,
-        "windDir": "NW",
+        "windDir": "N",
         "icon": "4_day"
       },
       {
