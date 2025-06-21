@@ -984,6 +984,15 @@
         "icon": "16_night"
       },
       {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 6.17,
+        "feelsLike": 2.51,
+        "rain": 0,
+        "wind": 7.37,
+        "windDir": "NW",
+        "icon": "16_night"
+      },
+      {
         "hour": "1899-12-30T06:00:00.000Z",
         "temp": 16.38,
         "feelsLike": 14.08,
@@ -3432,6 +3441,15 @@
         "feelsLike": -1.14,
         "rain": 0,
         "wind": 2.95,
+        "windDir": "W",
+        "icon": "16_night"
+      },
+      {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 1.63,
+        "feelsLike": -1.32,
+        "rain": 0,
+        "wind": 2.96,
         "windDir": "W",
         "icon": "16_night"
       },
@@ -5888,6 +5906,15 @@
         "icon": "16_night"
       },
       {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 2.4,
+        "feelsLike": 0.28,
+        "rain": 0,
+        "wind": 1.08,
+        "windDir": "N",
+        "icon": "16_night"
+      },
+      {
         "hour": "1899-12-30T06:00:00.000Z",
         "temp": 13.04,
         "feelsLike": 12.23,
@@ -8340,6 +8367,15 @@
         "icon": "16_night"
       },
       {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 6.17,
+        "feelsLike": 4.08,
+        "rain": 0,
+        "wind": 3.02,
+        "windDir": "NW",
+        "icon": "16_night"
+      },
+      {
         "hour": "1899-12-30T06:00:00.000Z",
         "temp": 16.38,
         "feelsLike": 15.37,
@@ -10786,6 +10822,15 @@
         "hour": "1899-12-29T17:00:00.000Z",
         "temp": 4.13,
         "feelsLike": 2.05,
+        "rain": 0,
+        "wind": 1.81,
+        "windDir": "NW",
+        "icon": "16_night"
+      },
+      {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 3.9,
+        "feelsLike": 1.81,
         "rain": 0,
         "wind": 1.81,
         "windDir": "NW",
@@ -13244,6 +13289,15 @@
         "icon": "4_night"
       },
       {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 3.24,
+        "feelsLike": 0.64,
+        "rain": 0,
+        "wind": 2.64,
+        "windDir": "SW",
+        "icon": "4_night"
+      },
+      {
         "hour": "1899-12-30T06:00:00.000Z",
         "temp": 15.46,
         "feelsLike": 13.93,
@@ -15692,6 +15746,15 @@
         "feelsLike": 6.53,
         "rain": 0,
         "wind": 7.77,
+        "windDir": "NW",
+        "icon": "16_night"
+      },
+      {
+        "hour": "1899-12-29T17:15:00.000Z",
+        "temp": 9.94,
+        "feelsLike": 6.4,
+        "rain": 0,
+        "wind": 7.76,
         "windDir": "NW",
         "icon": "16_night"
       },
